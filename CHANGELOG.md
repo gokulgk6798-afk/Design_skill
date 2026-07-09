@@ -100,6 +100,9 @@ This repository should follow semantic versioning after production content is in
 - Added repository `.gitignore` for local, editor, dependency, and temporary files.
 - Added `.gitattributes` for text normalization and binary asset handling.
 - Clarified skill installation modes so users know the full repository is required for final organization-compliant outputs.
+- Expanded `README.md` with a clear clone, install, run, validate, and supported-platform workflow.
+- Added Claude, Gemini, and GitHub Copilot instruction entry points that defer to `AGENTS.md`.
+- Added `scripts/sync-agent-rules.ps1` to regenerate platform instruction files from `AGENTS.md`.
 - Updated `README.md` for production adoption and skill usage.
 - Marked Milestone 10 complete in the roadmap.
 

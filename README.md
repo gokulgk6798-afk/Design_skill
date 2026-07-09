@@ -1,94 +1,205 @@
 # Organization Design Kit
 
-The Organization Design Kit is the centralized source of truth for Finstein design, brand, UX, documentation, templates, prompts, validation checklists, and AI-generated design assets.
+A centralized, reusable Design Knowledge Base for Finstein brand, UX, UI, documentation, templates, prompts, examples, validation checklists, and AI-generated design assets.
 
-This repository is not an application. It is a governed Design Knowledge Base for humans and AI assistants such as Codex, Claude, and future AI tools.
-
-## Current Status
-
-Milestones 1 through 10 are complete.
-
-The repository is ready for organizational adoption, subject to normal repository review, release tagging, and remote Git publishing.
-
-## What This Repository Supports
-
-- Brand guidelines
-- Visual identity and logo usage
-- Design tokens
-- UI component standards
-- UX writing and accessibility guidance
-- Presentation and document templates
-- AI prompt modules
-- Validation checklists
-- Example reference projects
-- AI assistant integration and installable skill wrappers
+This repository is not an application. It is the organization's source of truth for AI assistants and team members who need to generate brand-compliant presentations, proposals, documents, UI designs, websites, workflows, and design-related artifacts.
 
 ## Quick Start
 
-1. Clone the repository.
-2. Read `AGENTS.md` for AI assistant operating rules.
-3. Read `docs/installation-guide.md` for setup.
-4. Read `docs/user-guide.md` for role-based usage.
-5. Use `knowledge/_meta/loading-order.md` before generating any artifact.
-6. Validate outputs with the relevant checklist in `knowledge/checklists/`.
+Important: for final organization-compliant outputs, use the complete repository. The installable skill is the command and workflow layer; the full repository contains the approved knowledge base.
 
-## Repository Structure
+### 1. Clone The Repository
+
+```powershell
+git clone https://github.com/gokulgk6798-afk/Design_skill.git
+cd Design_skill
+```
+
+### 2. Start Your AI Assistant
+
+Start your preferred AI coding assistant from the repository root.
+
+Recommended:
+
+```powershell
+codex
+```
+
+or:
+
+```powershell
+claude
+```
+
+### 3. Run The Skill
+
+From the repository root, invoke:
 
 ```text
-organization-design-kit/
-|-- .claude/
-|-- .codex/
-|-- assets/
-|-- components/
-|-- docs/
-|-- examples/
-|-- integrations/
-|-- knowledge/
-|-- prompts/
-|-- scripts/
-|-- skills/
-|-- templates/
-|-- tests/
-|-- tokens/
-|-- validators/
-|-- AGENTS.md
-|-- CHANGELOG.md
-|-- CONTRIBUTING.md
-|-- LICENSE
+$organization-design-kit <your task>
+```
+
+Examples:
+
+```text
+$organization-design-kit Create a company profile presentation outline for an AI transformation proposal.
+```
+
+```text
+$organization-design-kit Review this PRD for brand, UX writing, documentation, and accessibility compliance.
+```
+
+```text
+$organization-design-kit Generate a dashboard UI specification using the approved component and token standards.
+```
+
+### 4. Validate The Output
+
+Before final delivery, use the relevant checklist:
+
+- `knowledge/checklists/brand-checklist.md`
+- `knowledge/checklists/ui-checklist.md`
+- `knowledge/checklists/ux-checklist.md`
+- `knowledge/checklists/accessibility-checklist.md`
+- `knowledge/checklists/presentation-checklist.md`
+- `knowledge/checklists/documentation-checklist.md`
+
+## Install As A Skill
+
+### Codex
+
+Ask Codex to install the skill from this GitHub path:
+
+```text
+https://github.com/gokulgk6798-afk/Design_skill/tree/main/skills/organization-design-kit
+```
+
+Then clone the full repository and provide the local path when invoking the skill:
+
+```text
+Use $organization-design-kit. Design Kit repository path: C:\path\to\Design_skill.
+```
+
+Manual Codex install on Windows:
+
+```powershell
+git clone https://github.com/gokulgk6798-afk/Design_skill.git
+New-Item -ItemType Directory -Force "$env:USERPROFILE\.codex\skills" | Out-Null
+Copy-Item -Recurse ".\Design_skill\skills\organization-design-kit" "$env:USERPROFILE\.codex\skills\organization-design-kit"
+```
+
+### Claude
+
+Clone the repository:
+
+```powershell
+git clone https://github.com/gokulgk6798-afk/Design_skill.git
+```
+
+Copy the Claude-ready skill folder into your Claude skills directory:
+
+```powershell
+Copy-Item -Recurse ".\Design_skill\.claude\skills\organization-design-kit" "<your-claude-skills-directory>\organization-design-kit"
+```
+
+Then invoke the skill and provide the cloned repository path:
+
+```text
+Use $organization-design-kit. Design Kit repository path: C:\path\to\Design_skill.
+```
+
+Full installation details are in `docs/skill-installation.md`.
+
+## Supported Platforms
+
+| Agent | Status | How To Use |
+| --- | --- | --- |
+| Codex CLI | Supported | Use `$organization-design-kit` from the repo root or install `skills/organization-design-kit`. |
+| Claude Code | Supported | Use the repo root instructions or `.claude/skills/organization-design-kit`. |
+| Cursor | Supported | Open the repo and follow `AGENTS.md`. |
+| GitHub Copilot | Supported | Reads `.github/copilot-instructions.md`. |
+| Gemini CLI | Supported | Reads `GEMINI.md`, which points to `AGENTS.md`. |
+| Windsurf | Supported | Open the repo and follow `AGENTS.md`. |
+| Other AI assistants | Supported with manual context loading | Load `AGENTS.md`, then follow `knowledge/_meta/loading-order.md`. |
+
+## How It Works
+
+The Design Kit workflow follows a source-backed process:
+
+1. Repository discovery: locate the Design Kit root and read `AGENTS.md`.
+2. Context loading: load the relevant knowledge, token, template, prompt, and example files.
+3. Artifact creation or review: generate the requested presentation, document, UI spec, prompt, or workflow.
+4. Validation: check output against the relevant checklist.
+5. Source reporting: state which repository files were used.
+
+No assistant should invent missing brand, token, component, accessibility, or writing standards.
+
+## Use Cases
+
+- Generate brand-compliant presentations.
+- Draft proposals, PRDs, BRDs, reports, and technical documents.
+- Create UI specifications from approved component and token standards.
+- Review AI-generated outputs for brand, UX, accessibility, and documentation quality.
+- Provide a shared design memory for AI assistants across teams.
+
+## Not Intended For
+
+- Replacing owner review for brand, legal, accessibility, or customer-facing releases.
+- Generating final assets from incomplete or missing source standards.
+- Hardcoding organization-specific values into framework files.
+- Bypassing contribution, versioning, or governance processes.
+
+## Project Structure
+
+```text
+Design_skill/
+|-- .claude/                         # Claude-ready skill package
+|-- .codex/                          # Codex-ready skill package
+|-- .github/                         # GitHub Copilot instructions
+|-- assets/                          # Approved assets, fonts, logos, source materials
+|-- components/                      # Component architecture placeholder
+|-- docs/                            # Installation, adoption, governance, milestone reviews
+|-- examples/                        # Reference example outputs
+|-- integrations/                    # Assistant loading and validation contracts
+|-- knowledge/                       # AI-readable brand, UX, design, component, pattern standards
+|-- prompts/                         # Reusable prompt modules
+|-- scripts/                         # Sync and maintenance scripts
+|-- skills/organization-design-kit/  # Canonical installable skill
+|-- templates/                       # Template architecture
+|-- tests/                           # Future tests
+|-- tokens/                          # Platform-independent design tokens
+|-- validators/                      # Checklist entry points
+|-- AGENTS.md                        # Agent instructions, source of truth
+|-- CLAUDE.md                        # Claude entry point
+|-- GEMINI.md                        # Gemini entry point
 |-- README.md
 `-- ROADMAP.md
 ```
 
-## Folder Purpose
+## Commands
 
-| Folder | Purpose |
-| --- | --- |
-| `.claude/` | Claude-compatible skill wrapper for consuming the Design Kit. |
-| `.codex/` | Codex-compatible skill wrapper for consuming the Design Kit. |
-| `assets/` | Approved source assets, logos, fonts, color files, and source material. |
-| `components/` | Component architecture and future component implementation references. |
-| `docs/` | Repository documentation, governance, installation, adoption, and milestone reviews. |
-| `examples/` | Approved reference examples for presentations, proposals, PRDs, UI design, and documentation. |
-| `integrations/` | Assistant integration contracts for repository discovery, loading, validation, and future tools. |
-| `knowledge/` | AI-readable brand, UX, visual identity, design, component, pattern, and checklist knowledge. |
-| `prompts/` | Reusable prompt modules and prompt standards. |
-| `scripts/` | Utility scripts for repository maintenance and skill packaging. |
-| `skills/` | Canonical installable skill source for AI assistants. |
-| `templates/` | Reusable template architecture for organization-wide artifacts. |
-| `tests/` | Future tests for schemas, links, examples, and automated validators. |
-| `tokens/` | Platform-independent design token source files and future platform outputs. |
-| `validators/` | Checklist-based validation entry points. |
+```powershell
+.\scripts\sync-agent-rules.ps1
+```
 
-## Installable Skill
+Regenerates platform instruction files from `AGENTS.md`.
 
-The canonical skill lives in `skills/organization-design-kit/`.
+```powershell
+.\scripts\sync-skills.ps1
+```
 
-Platform-ready copies are provided in:
+Regenerates `.codex/skills/organization-design-kit` and `.claude/skills/organization-design-kit` from the canonical skill.
 
-- `.codex/skills/organization-design-kit/`
-- `.claude/skills/organization-design-kit/`
+## Updating For Other Platforms
 
-See `docs/skill-installation.md` for installation and packaging guidance.
+Two source-of-truth areas power platform support:
+
+| What | Source Of Truth | Sync Command |
+| --- | --- | --- |
+| Project instructions | `AGENTS.md` | `.\scripts\sync-agent-rules.ps1` |
+| Installable skill | `skills/organization-design-kit/` | `.\scripts\sync-skills.ps1` |
+
+Agents that read `AGENTS.md` directly do not need regenerated instruction files.
 
 ## Release Model
 

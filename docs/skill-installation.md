@@ -27,7 +27,9 @@ Platform-ready copies are available at:
 
 ## Codex Usage
 
-Recommended full-access workflow:
+### Recommended Full-Access Workflow
+
+Clone the repository:
 
 ```powershell
 git clone https://github.com/gokulgk6798-afk/Design_skill.git
@@ -40,10 +42,12 @@ Then start Codex from the repository root and invoke:
 $organization-design-kit
 ```
 
-Codex skill-install workflow:
+### Codex Skill Install Path
+
+Install the skill from:
 
 ```text
-Install the skill from https://github.com/gokulgk6798-afk/Design_skill/tree/main/skills/organization-design-kit
+https://github.com/gokulgk6798-afk/Design_skill/tree/main/skills/organization-design-kit
 ```
 
 After installation, invoke the skill and provide the cloned repository path:
@@ -52,18 +56,21 @@ After installation, invoke the skill and provide the cloned repository path:
 Use $organization-design-kit. Design Kit repository path: <local-path-to-Design_skill>.
 ```
 
-Manual Codex copy workflow:
+### Manual Codex Install On Windows
 
 ```powershell
 git clone https://github.com/gokulgk6798-afk/Design_skill.git
-Copy-Item -Recurse .\Design_skill\.codex\skills\organization-design-kit "$env:USERPROFILE\.codex\skills\organization-design-kit"
+New-Item -ItemType Directory -Force "$env:USERPROFILE\.codex\skills" | Out-Null
+Copy-Item -Recurse ".\Design_skill\skills\organization-design-kit" "$env:USERPROFILE\.codex\skills\organization-design-kit"
 ```
 
 Restart Codex if the installed skill is not immediately available.
 
 ## Claude Usage
 
-Recommended full-access workflow:
+### Recommended Full-Access Workflow
+
+Clone the repository:
 
 ```powershell
 git clone https://github.com/gokulgk6798-afk/Design_skill.git
@@ -75,6 +82,8 @@ Then start Claude from the repository root and invoke:
 ```text
 $organization-design-kit
 ```
+
+### Claude Skill Folder
 
 Use the Claude-ready skill folder:
 
@@ -88,6 +97,22 @@ After installation, provide the cloned repository path:
 
 ```text
 Use $organization-design-kit. Design Kit repository path: <local-path-to-Design_skill>.
+```
+
+## Other AI Assistants
+
+For assistants without native skill installation:
+
+1. Clone the repository.
+2. Open the repository in the assistant.
+3. Ask the assistant to read `AGENTS.md`.
+4. Ask the assistant to follow `knowledge/_meta/loading-order.md`.
+5. Provide the task and require checklist validation before final output.
+
+Example:
+
+```text
+Read AGENTS.md and use this repository as the Organization Design Kit. Create a proposal outline and validate it with the documentation checklist.
 ```
 
 ## Important Access Rule
