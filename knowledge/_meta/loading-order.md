@@ -24,7 +24,7 @@ Ensure AI assistants consume knowledge consistently and resolve dependencies pre
 
 | Task | Required Knowledge Categories |
 | --- | --- |
-| Presentation creation | Brand, visual identity, design, presentation standards, writing, checklists |
+| Presentation creation | Brand, visual identity, logo asset manifest, asset discovery, design, presentation standards, writing, checklists |
 | Document creation | Brand, documentation standards, writing, accessibility, checklists |
 | UI creation | Brand, design, components, UX, accessibility, patterns, checklists |
 | Website creation | Brand, visual identity, design, components, UX, patterns, accessibility |

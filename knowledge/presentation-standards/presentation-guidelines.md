@@ -16,6 +16,9 @@ last_updated: 2026-07-08
 update_frequency: On presentation standard change
 dependencies:
   - assets/source-materials/finstein-presentation.pdf
+  - assets/logos/logo-assets.json
+  - knowledge/visual-identity/logos.md
+  - knowledge/visual-identity/logo-usage.md
   - knowledge/presentation-standards/finstein-company-profile-deck.md
 applies_to:
   - presentations
@@ -90,7 +93,11 @@ AI assistants must:
 
 - preserve the source-derived narrative unless instructed otherwise
 - ask for missing audience, objective, and source material
-- avoid adding visual rules not supported by source
+- include an approved Finstein logo in generated presentation files
+- select the logo using `assets/logos/logo-assets.json`
+- use the dark logo on light backgrounds and the white logo on dark or deep-blue backgrounds
+- report a blocker if the presentation output format cannot embed the approved PDF logo files
+- avoid adding visual rules not supported by source or approved knowledge
 - keep metrics and certifications source-bound
 - identify slide sections that require updated owner approval
 
@@ -99,10 +106,6 @@ AI assistants must:
 The following are not yet defined:
 
 - master slide layout
-- logo safe area
-- color palette
-- type scale
 - chart style
 - image style
 - footer and page-number rules
-- accessibility requirements for slides

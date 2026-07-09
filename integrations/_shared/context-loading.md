@@ -24,7 +24,7 @@ After default loading, assistants should load only the files required for the re
 
 | Task Type | Additional Context |
 | --- | --- |
-| Presentation | Presentation prompts, presentation templates, presentation standards, brand, design, assets. |
+| Presentation | Presentation prompts, presentation templates, presentation standards, brand, visual identity, `assets/logos/logo-assets.json`, asset discovery, design, assets. |
 | Proposal | Proposal prompts, proposal templates, documentation standards, brand, writing guidance. |
 | PRD | PRD prompt, document templates, documentation standards, UX knowledge. |
 | UI Design | UI prompt, design knowledge, component knowledge, UX, tokens. |

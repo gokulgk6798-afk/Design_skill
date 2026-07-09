@@ -32,8 +32,12 @@ For presentations, load:
 - `knowledge/presentation-standards/`
 - `knowledge/design/`
 - `knowledge/visual-identity/`
+- `assets/logos/logo-assets.json`
+- `integrations/_shared/asset-discovery.md`
 - `templates/presentations/`
 - `knowledge/checklists/presentation-checklist.md`
+
+Presentation outputs must include an approved Finstein logo unless the user explicitly asks for an internal text-only outline. Use `assets/logos/finstein-logo-dark.pdf` on light backgrounds and `assets/logos/finstein-logo-white.pdf` on dark or deep-blue backgrounds. If the target format cannot embed PDF logo assets, stop and report that a PNG or SVG export is required; do not silently omit the logo.
 
 For documents and proposals, load:
 

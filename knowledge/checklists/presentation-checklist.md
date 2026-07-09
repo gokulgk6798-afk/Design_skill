@@ -13,6 +13,7 @@ dependencies:
   - knowledge/design/grid.md
   - knowledge/design/typography.md
   - knowledge/visual-identity/logo-usage.md
+  - assets/logos/logo-assets.json
 ```
 
 ## Objective
@@ -26,6 +27,8 @@ Validate that presentations follow approved brand, layout, typography, accessibi
 - Uses approved slide hierarchy typography.
 - Uses approved colors and accessibility-approved combinations.
 - Uses approved logo assets and placement rules.
+- Includes `assets/logos/finstein-logo-dark.pdf` on light slide backgrounds or `assets/logos/finstein-logo-white.pdf` on dark slide backgrounds.
+- Does not silently omit the logo because of output format limitations.
 - Keeps titles aligned with body content.
 - Maintains generous whitespace and readable line lengths.
 - Uses charts and diagrams with labels, not color alone.

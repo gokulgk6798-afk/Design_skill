@@ -16,6 +16,7 @@ update_frequency: On brand change
 dependencies:
   - assets/logos/finstein-logo-white.pdf
   - assets/logos/finstein-logo-dark.pdf
+  - assets/logos/logo-assets.json
   - assets/source-materials/finstein-logo-guide-v2.pdf
   - docs/milestone-8-source-register.md
 applies_to:
@@ -38,6 +39,8 @@ Document the approved Finstein logo source assets currently available in the Des
 | --- | --- | --- |
 | White logo version | `assets/logos/finstein-logo-white.pdf` | `C:\Users\Finstein-Emp\Downloads\Finstein logo _White.pdf` |
 | Dark logo version | `assets/logos/finstein-logo-dark.pdf` | `C:\Users\Finstein-Emp\Downloads\Finstein logo _Dark.pdf` |
+
+Machine-readable asset manifest: `assets/logos/logo-assets.json`
 
 ## Approved Formats
 
@@ -62,6 +65,13 @@ The repository currently recognizes two logo versions:
 - Dark logo version
 
 Use the asset version that preserves legibility against the intended background.
+
+For presentations:
+
+- Use `assets/logos/finstein-logo-dark.pdf` on light or white slide backgrounds.
+- Use `assets/logos/finstein-logo-white.pdf` on dark, deep-blue, or image slide backgrounds.
+- Do not omit the logo from generated decks unless the requested output is explicitly a text-only outline.
+- If the presentation tool cannot embed PDF assets, request or create an approved PNG or SVG export before finalizing.
 
 ## Logo Structure
 
@@ -89,8 +99,10 @@ The outline version may be used in black or white only.
 AI assistants must:
 
 - reference only the approved logo files listed in this document
+- resolve presentation logos through `assets/logos/logo-assets.json`
 - avoid creating new logo versions
 - avoid recoloring, stretching, redrawing, or modifying the logo
+- avoid silently omitting the logo from presentation outputs
 - report when a required logo format is unavailable
 - ask for approval before using any logo variant not listed here
 

@@ -33,6 +33,15 @@ Provide logo usage guidance based on the approved Finstein logo guide.
 
 - White logo: `assets/logos/finstein-logo-white.pdf`
 - Dark logo: `assets/logos/finstein-logo-dark.pdf`
+- Logo manifest: `assets/logos/logo-assets.json`
+
+## Presentation Logo Selection
+
+- Use the dark logo on light or white backgrounds.
+- Use the white logo on dark, deep-blue, or image backgrounds.
+- Include an approved logo on cover slides, branded section dividers, and closing slides.
+- Do not silently omit the logo when generating presentation files.
+- If the target presentation tool cannot embed PDF logo files, request or create an approved PNG or SVG export before finalizing.
 
 ## Clearspace
 
@@ -77,6 +86,8 @@ Do not:
 AI assistants should apply the clearspace, minimum size, approved version, and misuse rules above.
 
 AI assistants must not create alternate logo versions or modify approved logo files.
+
+AI assistants creating presentations must load `assets/logos/logo-assets.json` and use the correct logo file path for the slide background.
 
 ## Pending Inputs
 

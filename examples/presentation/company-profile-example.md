@@ -8,6 +8,7 @@ Demonstrates how to structure a Finstein-compliant company profile presentation.
 
 - `knowledge/brand/`
 - `knowledge/visual-identity/`
+- `assets/logos/logo-assets.json`
 - `knowledge/design/typography.md`
 - `knowledge/design/colors.md`
 - `knowledge/presentation-standards/`
@@ -16,7 +17,7 @@ Demonstrates how to structure a Finstein-compliant company profile presentation.
 ## Slide Outline
 
 1. Cover slide
-   - Finstein logo
+   - Finstein logo using `assets/logos/finstein-logo-dark.pdf` on light background or `assets/logos/finstein-logo-white.pdf` on dark background
    - presentation title
    - concise subtitle
 2. Organization overview

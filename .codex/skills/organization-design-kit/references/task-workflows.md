@@ -22,11 +22,20 @@ Load:
 
 - `knowledge/brand/`
 - `knowledge/visual-identity/`
+- `assets/logos/logo-assets.json`
+- `integrations/_shared/asset-discovery.md`
 - `knowledge/design/`
 - `knowledge/presentation-standards/`
 - `templates/presentations/`
 - `examples/presentation/`
 - `knowledge/checklists/presentation-checklist.md`
+
+Logo requirement:
+
+- Use `assets/logos/finstein-logo-dark.pdf` for light slide backgrounds.
+- Use `assets/logos/finstein-logo-white.pdf` for dark or deep-blue slide backgrounds.
+- Do not finalize generated presentation files without a logo unless the user requested a text-only outline.
+- If the target file format cannot embed PDF logos, request an approved PNG or SVG export instead of silently omitting the logo.
 
 ## Proposal Workflow
 

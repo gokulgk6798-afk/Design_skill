@@ -130,22 +130,23 @@ When generating a company profile deck, AI assistants should:
 
 1. Load this file.
 2. Load `knowledge/brand/company-profile.md`.
-3. Ask for audience and deck purpose.
-4. Use the source-derived sequence as the default structure.
-5. Mark missing content clearly.
-6. Avoid final visual styling unless additional brand guidelines are provided.
+3. Load `knowledge/visual-identity/logos.md`.
+4. Load `knowledge/visual-identity/logo-usage.md`.
+5. Load `assets/logos/logo-assets.json`.
+6. Ask for audience and deck purpose.
+7. Use the source-derived sequence as the default structure.
+8. Include the approved Finstein logo asset in generated presentation files.
+9. Mark missing content clearly.
+10. Avoid final visual styling beyond approved brand, logo, typography, color, and layout guidance.
 
 ## Pending Inputs
 
 This file does not define:
 
 - exact visual layout rules
-- logo placement
-- color palette
-- typography
 - slide master specifications
 - icon style
 - chart style
 - footer rules
 
-Those require additional brand or design source material.
+Logo asset selection, color guidance, typography, spacing, grid, radius, elevation, and accessibility guidance are defined in the related Design Kit files. Exact master slide specifications, icon style, chart style, and footer rules still require additional source material.

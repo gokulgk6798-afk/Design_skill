@@ -1,0 +1,55 @@
+{
+  "version": "0.1.0",
+  "status": "approved-source",
+  "owner": "Brand Owner",
+  "assets": [
+    {
+      "id": "finstein-logo-dark",
+      "name": "Finstein dark logo",
+      "path": "assets/logos/finstein-logo-dark.pdf",
+      "format": "pdf",
+      "approved": true,
+      "use_on": [
+        "white backgrounds",
+        "light neutral backgrounds",
+        "light presentation slides"
+      ],
+      "presentation_usage": [
+        "cover slides with light background",
+        "content slides with light background",
+        "closing slides with light background"
+      ]
+    },
+    {
+      "id": "finstein-logo-white",
+      "name": "Finstein white logo",
+      "path": "assets/logos/finstein-logo-white.pdf",
+      "format": "pdf",
+      "approved": true,
+      "use_on": [
+        "deep blue backgrounds",
+        "dark backgrounds",
+        "dark image backgrounds"
+      ],
+      "presentation_usage": [
+        "cover slides with dark background",
+        "section dividers with deep blue background",
+        "closing slides with dark background"
+      ]
+    }
+  ],
+  "rules": {
+    "required_for_presentations": true,
+    "default_light_background_asset": "assets/logos/finstein-logo-dark.pdf",
+    "default_dark_background_asset": "assets/logos/finstein-logo-white.pdf",
+    "do_not_modify": true,
+    "do_not_recolor": true,
+    "do_not_generate_substitute": true,
+    "fallback_instruction": "If the output format cannot embed PDF logos, request or create an approved PNG or SVG export before finalizing. Do not omit the logo silently."
+  },
+  "dependencies": [
+    "knowledge/visual-identity/logos.md",
+    "knowledge/visual-identity/logo-usage.md",
+    "assets/source-materials/finstein-logo-guide-v2.pdf"
+  ]
+}

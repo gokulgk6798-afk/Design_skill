@@ -103,6 +103,8 @@ This repository should follow semantic versioning after production content is in
 - Expanded `README.md` with a clear clone, install, run, validate, and supported-platform workflow.
 - Added Claude, Gemini, and GitHub Copilot instruction entry points that defer to `AGENTS.md`.
 - Added `scripts/sync-agent-rules.ps1` to regenerate platform instruction files from `AGENTS.md`.
+- Added machine-readable logo asset manifest and explicit presentation logo selection rules.
+- Updated presentation, prompt, checklist, asset discovery, and skill workflows to prevent logo omission in generated decks.
 - Updated `README.md` for production adoption and skill usage.
 - Marked Milestone 10 complete in the roadmap.
 
