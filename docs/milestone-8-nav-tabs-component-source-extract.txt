@@ -1,0 +1,53 @@
+Source: assets/source-materials/nav-tabs-component.pdf
+Pages: 3
+
+--- PAGE 1 ---
+Nav tabs component example
+This example shows how you can use the component as a variant. Simply click on the component, and you'll see 
+all the available options in the right sidebar.
+Coded version docs
+Home Settings My account Downloads Support Support Support
+
+--- PAGE 2 ---
+Item 1
+Item 1
+Item 1
+Item 1
+Item 1
+Item 1
+Jese Leos
+name@flowbite.com
+Jese Leos
+name@flowbite.com
+
+--- PAGE 3 ---
+Home Settings My account Downloads Support Support Support
+Home Settings My account Downloads Support Support Support
+Settings
+Settings
+Home Settings My account Downloads Support Support Support Home
+Settings
+My account
+Downloads
+Support
+Home Settings My account Downloads Support Support Support Home
+Settings
+My account
+Downloads
+Support
+Home Settings My account Downloads Support Support Support Settings
+List item 1
+List item 1
+List item 1
+List item 1
+List item 1
+List item 1
+List item 1
+List item 1
+List item 1
+List item 1
+Home
+Settings
+My account
+Downloads
+Support

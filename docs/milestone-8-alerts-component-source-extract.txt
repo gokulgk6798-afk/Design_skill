@@ -1,0 +1,51 @@
+Source: assets/source-materials/alerts-component.pdf
+Pages: 2
+
+--- PAGE 1 ---
+Alert component example
+This example shows how you can use the component as a variant. Simply click on the component, and you'll see 
+all the available options in the right sidebar.
+Coded version docs
+Alert heading
+Aww yeah, you successfully read this important alert message. This example text is going to run a bit longer so that you 
+can see how spacing within an alert works with this kind of content.
+Learn more
+
+--- PAGE 2 ---
+Great job! You've acknowledged this significant alert message.
+Alert headingAlert heading
+Great job! You've acknowledged this significant alert message. We're adding extra text to illustrate how longer 
+notifications are displayed. By doing this, you can see how text wrapping and spacing are managed.
+Great job! You've acknowledged this significant alert message. We're adding extra text to illustrate how longer 
+notifications are displayed. By doing this, you can see how text wrapping and spacing are managed.
+Learn moreLearn more
+New Great job! You've acknowledged this significant alert message.
+Great job! You've acknowledged this significant alert message.
+Great job! You've acknowledged this significant alert message.
+Alert heading
+Great job! You've acknowledged this significant alert message. We're adding extra text to illustrate how longer 
+notifications are displayed. By doing this, you can see how text wrapping and spacing are managed.
+Learn more
+New Great job! You've acknowledged this significant alert message.
+Great job! You've acknowledged this significant alert message.
+Great job! You've acknowledged this significant alert message.
+Alert heading
+Great job! You've acknowledged this significant alert message. We're adding extra text to illustrate how longer 
+notifications are displayed. By doing this, you can see how text wrapping and spacing are managed.
+Learn more
+New Great job! You've acknowledged this significant alert message.
+Great job! You've acknowledged this significant alert message.
+Great job! You've acknowledged this significant alert message.
+Alert heading
+Great job! You've acknowledged this significant alert message. We're adding extra text to illustrate how longer 
+notifications are displayed. By doing this, you can see how text wrapping and spacing are managed.
+Learn more
+New Great job! You've acknowledged this significant alert message.
+Great job! You've acknowledged this significant alert message.
+Great job! You've acknowledged this significant alert message.
+Alert heading
+Great job! You've acknowledged this significant alert message. We're adding extra text to illustrate how longer 
+notifications are displayed. By doing this, you can see how text wrapping and spacing are managed.
+Learn more
+Great job! You've acknowledged this significant alert message.New
+Great job! You've acknowledged this significant alert message.

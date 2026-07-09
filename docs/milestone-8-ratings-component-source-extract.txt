@@ -1,0 +1,5 @@
+Source: assets/source-materials/ratings-component.pdf
+Pages: 1
+
+--- PAGE 1 ---
+5.0 4.8 out of 5 Not likely 0 1 2 3 4 5 V ery likely

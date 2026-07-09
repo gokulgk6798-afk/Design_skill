@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "category": "font-weights",
+    "status": "in-review",
+    "owner": "Design System Owner",
+    "version": "0.0.0",
+    "description": "Source-derived font weight tokens from approved Milestone 8 typography input.",
+    "dependencies": [
+      "docs/milestone-8-typography-spacing-source.md"
+    ]
+  },
+  "tokens": {
+    "font": {
+      "weight": {
+        "regular": { "$value": 400, "$type": "fontWeight" },
+        "medium": { "$value": 500, "$type": "fontWeight" },
+        "semibold": { "$value": 600, "$type": "fontWeight" },
+        "bold": { "$value": 700, "$type": "fontWeight" }
+      }
+    }
+  }
+}

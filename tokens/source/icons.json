@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "category": "icons",
+    "status": "draft",
+    "owner": "Design System Owner",
+    "version": "0.0.0",
+    "description": "Architecture placeholder for future icon tokens. No organization-specific values are defined.",
+    "dependencies": []
+  },
+  "tokens": {}
+}

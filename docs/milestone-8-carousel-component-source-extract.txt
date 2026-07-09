@@ -1,0 +1,64 @@
+Source: assets/source-materials/carousel-component.pdf
+Pages: 4
+
+--- PAGE 1 ---
+Card component example
+This example shows how you can use the component as a variant. Simply click on the component, and you'll see 
+all the available options in the right sidebar.
+Coded version docs
+4.8 out of 5
+Apple Watch Series 7 GPS, Aluminium 
+Case, Starlight Sport
+$599 Add to cart
+4.8 out of 5
+Apple Watch Series 7 GPS, Aluminium 
+Case, Starlight Sport
+$599 Add to cart
+4.8 out of 5
+Apple Watch Series 7 GPS, Aluminium 
+Case, Starlight Sport
+$599 Add to cart
+
+--- PAGE 2 ---
+[No extractable text]
+
+--- PAGE 3 ---
+[No extractable text]
+
+--- PAGE 4 ---
+4.8 out of 5
+Apple Watch Series 7 GPS, Aluminium 
+Case, Starlight Sport
+$599 Add to cart
+4.8 out of 5
+Apple Watch Series 7 GPS, Aluminium 
+Case, Starlight Sport
+$599 Add to cart
+4.8 out of 5
+Apple Watch Series 7 GPS, Aluminium 
+Case, Starlight Sport
+$599 Add to cart
+Our design process
+In today’s fast-paced digital 
+landscape, fostering seamless 
+collaboration among Developers and 
+IT Operations.
+Read more
+Modern flowbite API
+In today’s fast-paced digital 
+landscape, fostering seamless 
+collaboration among Developers and 
+IT Operations.
+Read more
+Latest frameworks
+In today’s fast-paced digital 
+landscape, fostering seamless 
+collaboration among Developers and 
+IT Operations.
+Read more
+Design fast with us
+In today’s fast-paced digital 
+landscape, fostering seamless 
+collaboration among Developers and 
+IT Operations.
+Read more

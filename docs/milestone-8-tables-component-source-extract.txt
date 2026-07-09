@@ -1,0 +1,226 @@
+Source: assets/source-materials/tables-component.pdf
+Pages: 2
+
+--- PAGE 1 ---
+Tables component example
+This example shows how you can use the component as a variant. Simply click on the component, and you'll see 
+all the available options in the right sidebar.
+Coded version docs
+Search for transaction
+Transaction Due date
+Payment from Bonnie Green 15 Mar 2025
+Payment refund to #00910 1 7  Mar 2025
+Payment failed from #087651 10 A p r 2025
+Payment from Jese Leos 5 Ma y  2025
+Payment from Lana Byrd 3 0 J an 2025
+Payment from Jese Leos 12 J un 2025
+Wire transfer for Bergside LLC 1 8  J ul 2025
+Payment refund to #06978 25 Au g  2025
+Payment to Karen Nelson 1 S e p  2025
+Payment to Alphabet LLC 20 S e p  2025
+Showing 1-10 of 1000
+A mm out
+$ 1 99
+-$ 1 ,768
+$ 1 99
+$399
+$399
+$6, 55 4
+$9,867
+-$3, 2 76
+-$4,7 5 6
+-$8 0 6
+Add transaction Filters
+S tatus Actions
+C o mp leted Actions Delete
+I n p ro g ress Actions Delete
+Failed Actions Delete
+C o mp leted Actions Delete
+C o mp leted Actions Delete
+Failed Actions Delete
+C o mp leted Actions Delete
+C o mp leted Actions Delete
+C o mp leted Actions Delete
+C o mp leted Actions Delete
+1 2 3 4 5 6 7 8 9 10
+Actions
+
+--- PAGE 2 ---
+Search for transaction
+Transaction Due date
+Payment from Bonnie Green 15 Mar 2025
+Payment refund to #00910 17 Mar 2025
+Payment failed from #087651 10 Apr 2025
+Payment from Jese Leos 5 May 2025
+Payment from Lana Byrd 30 Jan 2025
+Payment from Jese Leos 12 Jun 2025
+Wire transfer for Bergside LLC 18 Jul 2025
+Payment refund to #06978 25 Aug 2025
+Payment to Karen Nelson 1 S ep 2025
+Payment to Alphabet LLC 20 S ep 2025
+Showing 1-10 of 1000
+A mm out
+$ 1 99
+-$ 1 , 7 6 8
+$ 1 99
+$ 3 99
+$ 3 99
+$6, 55 4
+$9, 8 6 7
+-$ 3 , 27 6
+-$4, 75 6
+-$ 80 6
+Add transaction Filters
+S tatus Actions
+C o m pleted Actions Delete
+I n progress Actions Delete
+Failed Actions Delete
+C o m pleted Actions Delete
+C o m pleted Actions Delete
+Failed Actions Delete
+C o m pleted Actions Delete
+C o m pleted Actions Delete
+C o m pleted Actions Delete
+C o m pleted Actions Delete
+1 2 3 4 5 6 7 8 9 10
+Actions
+Search for transaction
+Transaction Due d at e
+Payment from Bonnie Green 15 M ar  2025
+Payment refund to #00910 17 M ar  2025
+Payment failed from #087651 10 Ap r  2025
+Payment from Jese Leos 5 M a y 2025
+Payment from Lana Byrd 30 J an  2025
+Payment from Jese Leos 12 Ju n  2025
+Wire transfer for Ber gs ide LL C 18 Jul 2025
+Payment ref u n d  to #06978 25 Aug 2025
+Payment to Kar e n  N e l so n 1 Sep 2025
+Payment to Alph a b e t  LL C 20 Sep 2025
+Showing 1-10 of 1000
+Due d at e
+15 M ar  2025
+17 M ar  2025
+10 Ap r  2025
+5 M a y 2025
+30 J an  2025
+12 Ju n  2025
+18 Jul 2025
+25 Aug 2025
+1 Sep 2025
+20 Sep 2025
+Amm o u t
+$199
+-$1,768
+$199
+$399
+$399
+$6,554
+$9,867
+-$3,276
+-$4,756
+-$806
+Add transaction Filters Actions
+Amm o u t S tat u s A ctions
+$199 C o m pleted Actions Delete
+-$1,768 I n progress Actions Delete
+$199 Failed Actions Delete
+$399 C o m pleted Actions Delete
+$399 C o m pleted Actions Delete
+$6,554 Failed Actions Delete
+$9,867 C o m pleted Actions Delete
+-$3,276 C o m pleted Actions Delete
+-$4,756 C o m pleted Actions Delete
+-$806 C o m pleted Actions Delete
+1 2 3 4 5 6 7 8 9 10
+Transaction Due d at e
+Payment from Bonnie Green 15 M ar  2025
+Payment refund to #00910 17 M ar  2025
+Payment failed from #087651 10 Ap r  2025
+Payment from Jese Leos 5 M a y 2025
+Payment from Lana Byrd 30 J an  2025
+Payment from Jese Leos 12 Ju n  2025
+Wire transfer for Ber gs ide LL C 18 Jul 2025
+Payment ref u n d  to #06978 25 Aug 2025
+Payment to Kar e n  N e l so n 1 Sep 2025
+Payment to Alph a b e t  LL C 20 Sep 2025
+Showing 1-10 of 1000
+Amm o u t
+$199
+-$1,768
+$199
+$399
+$399
+$6,554
+$9,867
+-$3,276
+-$4,756
+-$806
+S tat u s A ctions
+C o m pleted Actions Delete
+I n progress Actions Delete
+Failed Actions Delete
+C o m pleted Actions Delete
+C o m pleted Actions Delete
+Failed Actions Delete
+C o m pleted Actions Delete
+C o m pleted Actions Delete
+C o m pleted Actions Delete
+C o m pleted Actions Delete
+1 2 3 4 5 6 7 8 9 10
+Transaction Amm o u t
+Payment from Bonnie Green $199
+Payment refund to #00910 -$1,768
+Payment failed from #087651 $199
+Payment from Jese Leos $399
+Payment from Lana Byrd $399
+Payment from Jese Leos $6,554
+Wire transfer for Ber gs ide LL C $9,867
+Payment ref u n d  to #06978 -$3,276
+Payment to Kar e n  N e l so n -$4,756
+Payment to Alph a b e t  LL C -$806
+Showing 1-10 of 1000
+Amm o u t
+$199
+-$1,768
+$199
+$399
+$399
+$6,554
+$9,867
+-$3,276
+-$4,756
+-$806
+Amm o u t
+$199
+-$1,768
+$199
+$399
+$399
+$6,554
+$9,867
+-$3,276
+-$4,756
+-$806
+A ctions
+Delete
+Delete
+Delete
+Delete
+Delete
+Delete
+Delete
+Delete
+Delete
+Delete
+1 2 3 4 5 6 7 8 9 10
+Amm o u t
+$199
+-$1,768
+$199
+$399
+$399
+$6,554
+$9,867
+-$3,276
+-$4,756
+-$806

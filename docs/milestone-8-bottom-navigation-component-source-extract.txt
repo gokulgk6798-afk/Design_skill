@@ -1,0 +1,25 @@
+Source: assets/source-materials/bottom-navigation-component.pdf
+Pages: 4
+
+--- PAGE 1 ---
+Bottom navigation component example
+This example shows how you can use the component as a variant. Simply click on the component, and you'll see 
+all the available options in the right sidebar.
+Coded version docs
+
+--- PAGE 2 ---
+Wallet Wallet
+
+--- PAGE 3 ---
+Wallet Wallet Wallet Wallet
+Wallet Wallet Wallet Wallet
+1 of 246
+Toggle Toggle Toggle Toggle
+
+--- PAGE 4 ---
+12:43 AM
+Flowbite Crash Course in 20 mins
+3:45 5:00
+12:43 AM
+Flowbite Crash Course
+3:45 5:00 3:45 5:00

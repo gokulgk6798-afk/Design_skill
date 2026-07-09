@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "category": "elevation",
+    "status": "approved-source",
+    "owner": "Design System Owner",
+    "version": "0.0.0",
+    "description": "Source-derived elevation tokens from approved Milestone 8 elevation and shadow input.",
+    "dependencies": [
+      "docs/milestone-8-elevation-shadow-source.md",
+      "knowledge/design/elevation.md",
+      "tokens/source/shadows.json"
+    ]
+  },
+  "tokens": {
+    "elevation": {
+      "0": {
+        "$value": "none",
+        "$type": "shadow",
+        "$description": "Default page layout, background surfaces, tables, flat sections."
+      },
+      "1": {
+        "$value": "{shadow.elevation-1}",
+        "$type": "shadow",
+        "$description": "Buttons, input fields, dropdowns, chips, small cards."
+      },
+      "2": {
+        "$value": "{shadow.elevation-2}",
+        "$type": "shadow",
+        "$description": "Cards, navigation panels, tooltips, floating controls."
+      },
+      "3": {
+        "$value": "{shadow.elevation-3}",
+        "$type": "shadow",
+        "$description": "Dialogs, side panels, bottom sheets, popovers."
+      },
+      "4": {
+        "$value": "{shadow.elevation-4}",
+        "$type": "shadow",
+        "$description": "Modal windows, full-screen overlays, high-priority floating components."
+      }
+    },
+    "component-elevation": {
+      "button": { "$value": "{elevation.1}", "$type": "shadow" },
+      "input-field": { "$value": "{elevation.1}", "$type": "shadow" },
+      "dropdown": { "$value": "{elevation.1}", "$type": "shadow" },
+      "card": { "$value": "{elevation.2}", "$type": "shadow" },
+      "navigation-drawer": { "$value": "{elevation.2}", "$type": "shadow" },
+      "tooltip": { "$value": "{elevation.2}", "$type": "shadow" },
+      "popover": { "$value": "{elevation.3}", "$type": "shadow" },
+      "side-panel": { "$value": "{elevation.3}", "$type": "shadow" },
+      "dialog": { "$value": "{elevation.3}", "$type": "shadow" },
+      "modal-window": { "$value": "{elevation.4}", "$type": "shadow" },
+      "background-section": { "$value": "{elevation.0}", "$type": "shadow" }
+    },
+    "presentation-elevation": {
+      "content-card": { "$value": "{elevation.1}", "$type": "shadow" },
+      "feature-card": { "$value": "{elevation.2}", "$type": "shadow" },
+      "image-container": { "$value": "{elevation.2}", "$type": "shadow" },
+      "callout-panel": { "$value": "{elevation.2}", "$type": "shadow" },
+      "chart": { "$value": "{elevation.0}", "$type": "shadow" },
+      "background-section": { "$value": "{elevation.0}", "$type": "shadow" }
+    }
+  }
+}

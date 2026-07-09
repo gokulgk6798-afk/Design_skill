@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "category": "typography",
+    "status": "in-review",
+    "owner": "Design System Owner",
+    "version": "0.0.0",
+    "description": "Source-derived typography family and style role tokens from approved Milestone 8 typography input. Roboto is approved for all official and other presentations.",
+    "dependencies": [
+      "docs/milestone-8-typography-spacing-source.md",
+      "assets/source-materials/finstein-logo-guide-v2.pdf",
+      "assets/fonts/roboto/OFL.txt",
+      "knowledge/design/typography.md"
+    ]
+  },
+  "tokens": {
+    "font": {
+      "family": {
+        "heading": {
+          "$value": "Roboto",
+          "$type": "fontFamily",
+          "$description": "Used for cover titles, section titles, slide titles, highlight numbers, and display styles."
+        },
+        "body": {
+          "$value": "Roboto",
+          "$type": "fontFamily",
+          "$description": "Used for body content, supporting text, captions, and table content."
+        },
+        "fallback": {
+          "$value": "Roboto, Arial, sans-serif",
+          "$type": "fontFamily",
+          "$description": "Recommended fallback stack for CSS-style use."
+        },
+        "email-signature": {
+          "$value": "Arial",
+          "$type": "fontFamily",
+          "$description": "Email signatures should use Arial only per Finstein logo guide v2."
+        },
+        "brand-serif": {
+          "$value": "Georgia",
+          "$type": "fontFamily",
+          "$description": "Recommended brand serif from Finstein logo guide v2."
+        },
+        "brand-contemporary": {
+          "$value": "Circular Std",
+          "$type": "fontFamily",
+          "$description": "Recommended brand contemporary font from Finstein logo guide v2. Presentations use Roboto by project override."
+        }
+      }
+    }
+  }
+}

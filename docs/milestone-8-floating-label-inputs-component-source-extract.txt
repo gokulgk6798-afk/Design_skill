@@ -1,0 +1,142 @@
+Source: assets/source-materials/floating-label-inputs-component.pdf
+Pages: 2
+
+--- PAGE 1 ---
+Floating label component example
+This example shows how you can use the component as a variant. Simply click on the component, and you'll see 
+all the available options in the right sidebar.
+Coded version docs
+Placeholder text
+
+--- PAGE 2 ---
+Placeholder text
+Placeholder text
+Placeholder text
+Write some text he|
+Placeholder text
+Write some text he|
+Placeholder text
+name@company.com
+Placeholder text
+name@company.com
+name@company.com
+name@company.com
+Placeholder text
+name@company.com
+Placeholder text
+name@company.com
+Placeholder text
+Write some text he|
+Placeholder text
+Write some text he|
+Placeholder text
+Write some text he|
+Placeholder text
+Write some text he|
+Placeholder text
+Placeholder text
+Write some text he|
+Placeholder text
+name@company.com name@company.com
+Placeholder text
+name@company.com
+Placeholder text
+Write some text he|
+Placeholder text
+Write some text he|
+Placeholder text
+Placeholder text
+Write some text he|
+Placeholder text
+name@company.com name@company.com
+Placeholder text
+name@company.com
+Placeholder text
+Write some text he|
+Placeholder text
+Write some text he|
+Placeholder text
+Write some text he|
+Placeholder text
+Write some text he|
+Placeholder text
+name@company.com
+Placeholder text
+name@company.com
+Placeholder text
+name@company.com
+Placeholder text
+name@company.com
+Placeholder text
+Write some text he|
+Placeholder text
+Write some text he|
+Placeholder text
+Write some text he|
+Placeholder text
+Write some text he|
+Placeholder text name@company.com
+Placeholder text name@company.com
+Placeholder text
+Write some text he|
+Placeholder text
+name@company.com
+Placeholder text
+name@company.com
+Placeholder text
+Write some text he|
+Placeholder text
+Write some text he|Placeholder text name@company.com
+Placeholder text
+Write some text he|
+Placeholder text
+name@company.com
+Placeholder text
+name@company.com
+Placeholder text
+Write some text he|
+Placeholder text
+Write some text he|Placeholder text name@company.com
+Placeholder text
+Write some text he|
+Placeholder text
+name@company.com
+Placeholder text
+name@company.com
+Placeholder text
+Write some text he|
+Placeholder text
+Write some text he|Placeholder text Placeholder text
+Placeholder text
+Write some text he|
+Placeholder text
+Write some text he|
+Placeholder text
+Write some text he|
+Placeholder text
+name@company.com
+Placeholder text
+name@company.com
+Placeholder text
+name@company.com
+Placeholder text
+name@company.com
+Placeholder text
+name@company.com
+Placeholder text
+name@company.com
+Placeholder text
+Write some text he|
+Placeholder text
+Write some text he|
+Placeholder text
+Write some text he|
+Placeholder text
+Write some text he|
+Placeholder text
+Write some text he|
+Placeholder text
+Write some text he|
+Placeholder text Placeholder text
+Placeholder text Placeholder text
+Placeholder text Placeholder text

@@ -1,0 +1,423 @@
+Source: assets/source-materials/navbar-component.pdf
+Pages: 7
+
+--- PAGE 1 ---
+Navbar component example
+This example shows how you can use the component as a variant. Simply click on the component, and you'll see 
+all the available options in the right sidebar.
+Coded version docs
+Home
+Flowbite
+Company Products Team Features Services Blog Contact
+Logout
+
+--- PAGE 2 ---
+Nav link
+Nav link
+Nav link
+Nav link
+Nav link
+Nav link
+Nav link
+Nav link
+Nav link
+Nav link
+Nav link
+Nav link
+Nav link
+Nav link
+Nav link
+Nav link
+Nav link Text here
+Nav link Text here
+Nav link Text here
+Nav link Text here
+Nav link
+Nav link
+Nav link
+Nav link
+Nav link
+Nav link
+Nav link
+Nav link
+Nav link
+Connect with third-party tools that 
+you're already using.
+Nav link
+Connect with third-party tools that 
+you're already using.
+Nav link
+Connect with third-party tools that 
+you're already using.
+Nav link
+Connect with third-party tools that 
+you're already using.
+Nav link
+Connect with third-party tools that 
+you're already using.
+Nav link
+Connect with third-party tools that 
+you're already using.
+Nav link
+Connect with third-party tools that 
+you're already using.
+Nav link
+Connect with third-party tools that 
+you're already using.
+Nav link
+Nav link
+Nav link
+Nav link
+Nav link
+Connect with third-party tools that you're 
+already using.
+Nav link
+Connect with third-party tools that 
+you're already using.
+Nav link
+Connect with third-party tools that you're 
+already using.
+Nav link
+Connect with third-party tools that you're 
+already using.
+Nav link
+Connect with third-party tools that you're 
+already using.
+Nav link
+Connect with third-party tools that you're 
+already using.
+Nav link
+Connect with third-party tools that you're 
+already using.
+Nav link
+Connect with third-party tools that you're 
+already using.
+Nav link
+Nav link
+Nav link
+Nav link
+
+--- PAGE 3 ---
+Flowbite Company Marketplace Features Products Team Contact Login Upgrade to PRO
+Flowbite Company Marketplace Features Products Team Contact Logout
+Flowbite Search Quickstart Products Team Blog Pro Version Login
+Flowbite Company Marketplace Features Products Team Contact Search English (US)
+Home Company Products Team Features Services Blog Contact
+FlowbiteHome Products Blog Contact Talk to sales Login Upgrade to PRO
+Flowbite English (US) Login
+Home Company Products Team Features Services Blog Contact All categories Search mockups, logos Search
+We have launched the new Flowbite Dashboard featuring over 60+ pages! Check it out
+Flowbite Company Marketplace More Login Upgrade to PRO
+Flowbite Company Marketplace More Logout
+Flowbite Search Login
+Flowbite Search English (US)
+Home Company Products Team Features Services Blog Contact
+Flowbite Login Upgrade to PRO
+Flowbite English (US) Login
+Menu All categories Search mockups, logos Search
+We have launched the new Flowbite Dashboard featuring over 60+ pages! Check it out
+Flowbite Login
+Flowbite
+Flowbite
+Flowbite
+Home Company Products
+Flowbite Login Upgrade
+Flowbite English (US)
+Menu Search everything
+We have launched the new Flowbite Dashboard 
+featuring over 60+ pages!
+Check it out
+
+--- PAGE 4 ---
+Flowbite Company Marketplace Features Products Team Contact
+Flowbite Company Marketplace More Login Upgrade to PRO
+Flowbite Login
+Login Upgrade to PRO Flowbite
+Flowbite
+Flowbite
+Company Marketplace Features Products Team Contact
+Company Marketplace More Logout
+Logout Flowbite Search
+Flowbite Search
+Flowbite
+Login
+Quickstart Products Team Blog Pro Version Login Flowbite Company Marketplace Features Products Team Contact
+Flowbite Search English (US)
+Flowbite
+Search English (US) Home Products Blog Contact
+Flowbite
+Flowbite Login
+Flowbite
+Login Upgrade to PRO
+Talk to sales Login Upgrade to PRO
+
+--- PAGE 5 ---
+Online stores
+Connect with third-party tools that 
+you're already using.
+Segmentation
+Connect with third-party tools that 
+you're already using.
+Marketing CRM
+Connect with third-party tools that 
+you're already using.
+Accessibility Testing
+Connect with third-party tools that 
+you're already using.
+PageSpeed Insights
+Connect with third-party tools that 
+you're already using.
+PageSpeed Insights
+Connect with third-party tools that 
+you're already using.
+UI Tools
+Connect with third-party tools that 
+you're already using.
+Open Source
+Connect with third-party tools that 
+you're already using.
+Blog
+Connect with third-party tools that 
+you're already using.
+Our Brands
+At JBS Foods, we pride ourselves on a 
+portfolio of brands that cater to a variety of 
+preferences some text here.
+Explore Flowbite Brands
+Online stores
+Connect with third-party tools 
+that you're already using.
+Segmentation
+Connect with third-party tools 
+that you're already using.
+Marketing CRM
+Connect with third-party tools 
+that you're already using.
+Accessibility Testing
+Connect with third-party tools 
+that you're already using.
+PageSpeed Insights
+Connect with third-party tools 
+that you're already using.
+Marketing CRM
+Connect with third-party tools 
+that you're already using.
+UI Tools
+Connect with third-party tools 
+that you're already using.
+Open Source
+Connect with third-party tools 
+that you're already using.
+Blog
+Connect with third-party tools 
+that you're already using.
+Online stores
+Connect with third-party tools that you're already 
+using.
+Segmentation
+Connect with third-party tools that you're already 
+using.
+Marketing CRM
+Connect with third-party tools that you're already 
+using.
+Accessibility Testing
+Connect with third-party tools that you're already 
+using.
+PageSpeed Insights
+Connect with third-party tools that you're already 
+using.
+Marketing CRM
+Connect with third-party tools that you're already 
+using.
+UI Tools
+Connect with third-party tools that you're already 
+using.
+Open Source
+Connect with third-party tools that you're already 
+using.
+Blog
+Connect with third-party tools that you're already 
+using.
+
+--- PAGE 6 ---
+Introduction
+Quickstart
+F igma Design Sy stem
+UI  components
+Tec h nologies
+I ntegration guides
+Bl oc ks
+M arketing UI
+Application UI
+P ublis h er UI
+E- commerce UI
+Das h boards
+Help
+H elp center
+Video tutorials
+Communit y  f orum
+F AQ
+Contact support
+Int eg r a tion s
+F lo w bite
+R ea c t JS
+V ue JS
+J a v a
+Sv elte
+Introduction Bl oc ks
+Quickstart M arketing UI
+F igma Design Sy stem Application UI
+UI  components P ublis h er UI
+Tec h nologies E- commerce UI
+I ntegration guides Das h boards
+Help Int eg r a tion s
+H elp center F lo w bite
+Video tutorials R ea c t JS
+Communit y  f orum V ue JS
+F AQ J a v a
+Contact support Sv elte
+Q ui cks tart
+D e s i g n S y s tem
+UI  c om p onent s
+T e ch nolo g ie s
+I nte g ration g ui d e s
+H el p  c enter
+V i d eo tutorial s
+C ommunity f orum
+C onta c t s u pp ort
+T erm s  &  C on d ition s
+In tro duc i n g D as hb oar d  2.0
+A faster, smarter, and more intuitive 
+experience is here!
+C h eck it out
+Q ui cks tart H el p  c enter
+D e s i g n S y s tem V i d eo tutorial s
+UI  c om p onent s C ommunity f orum
+T e ch nolo g ie s C onta c t s u pp ort
+I nte g ration g ui d e s T erm s  &  C on d ition s
+In tro duc i n g D as hb oar d  2.0
+A faster, smarter, and more intuitive experience is 
+here!
+C h eck it out
+What is Flowbite?
+Learn more about our library
+UI Components
+Learn more about our library
+Themes
+Learn more about our library
+Flowbite icons
+Learn more about our library
+Accessibility testing
+Learn more about our library
+UI Tools
+Learn more about our library
+Integration guides
+Learn more about our library
+Collaboration tools
+Learn more about our library
+E-commerce UI
+Learn more about our library
+Publisher UI
+Learn more about our library
+Dashboard pages
+Learn more about our library
+Illustrations
+Learn more about our library
+Help center
+Learn more about our library
+Video tutorials
+Learn more about our library
+Community forum
+Learn more about our library
+Contact support
+Learn more about our library
+What is Flowbite?
+Learn more about our library
+UI Components
+Learn more about our library
+Themes
+Learn more about our library
+Flowbite icons
+Learn more about our library
+Accessibility testing
+Learn more about our library
+UI Tools
+Learn more about our library
+Integration guides
+Learn more about our library
+Collaboration tools
+Learn more about our library
+E-commerce UI
+Learn more about our library
+Publisher UI
+Learn more about our library
+Dashboard pages
+Learn more about our library
+Illustrations
+Learn more about our library
+What is Flowbite
+Learn more about our library
+UI Components
+Learn more about our library
+Themes
+Learn more about our library
+Flowbite Icons
+Learn more about our library
+Accessibility testing
+Learn more about our library
+Browse Categories
+Accordions
+Buttons
+Dropdowns
+Carousels
+Nav Tabs
+Datapicker
+Tables
+Bottom navigation
+Navbars
+View all components
+What is Flowbite
+Learn more about our library
+UI Components
+Learn more about our library
+B ro w se  C a t eg ori es
+Accordions
+Buttons
+Dropdowns
+Carousels
+Nav Tabs
+Datapicker
+Tables
+Bottom navigation
+Navbars
+View all components
+Themes
+Learn more about our library
+Flowbite Icons
+Learn more about our library
+Accessibility testing
+Learn more about our library
+
+--- PAGE 7 ---
+Jese Leos
+name@flowbite.com
+Search
+Company
+Marketplace
+Features
+Products
+Team
+Contact
+Login Upgrade to PRO
+Jese Leos
+name@flowbite.com Login Upgrade
+Search
+Nav link
+Nav link
+Nav link
+Nav link
+Nav link
+Nav link
+Nav link
+Nav link
++12 345 67890 name@company.com

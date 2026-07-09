@@ -1,0 +1,33 @@
+Source: assets/source-materials/progress-bar-component.pdf
+Pages: 3
+
+--- PAGE 1 ---
+Progress bars component example
+This example shows how you can use the component as a variant. Simply click on the component, and you'll see 
+all the available options in the right sidebar.
+Coded version docs
+100% 100%
+
+--- PAGE 2 ---
+[No extractable text]
+
+--- PAGE 3 ---
+100% 100%
+100%
+100% 100%
+100% 100%
+100% 100%
+100% 100%
+100% 100%
+100% 100%
+100% 100%
+100% 100%
+100% 100%
+100% 100%
+100% 100%
+100% 100%
+100% 100%
+100% 100%
+100%
+100% 100%
+100% 100%

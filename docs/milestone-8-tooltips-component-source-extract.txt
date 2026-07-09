@@ -1,0 +1,12 @@
+Source: assets/source-materials/tooltips-component.pdf
+Pages: 2
+
+--- PAGE 1 ---
+Tooltip component example
+This example shows how you can use the component as a variant. Simply click on the component, and you'll see 
+all the available options in the right sidebar.
+Coded version docs
+Tooltip text here
+
+--- PAGE 2 ---
+T ooltip text here T ooltip text here T ooltip text here T ooltip text here

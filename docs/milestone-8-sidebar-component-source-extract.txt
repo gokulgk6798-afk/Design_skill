@@ -1,0 +1,123 @@
+Source: assets/source-materials/sidebar-component.pdf
+Pages: 6
+
+--- PAGE 1 ---
+Sidebar component example
+This example shows how you can use the component as a variant. Simply click on the component, and you'll see 
+all the available options in the right sidebar.
+Coded version docs
+Humance
+Overview
+Pages
+Ecommerce
+All products
+Billing
+Invoice
+Transactions
+Messages
+Users
+Support
+Docs
+Components
+Help
+New dashboard!
+Preview the new Flowbite 
+dashboard navigation! You can 
+turn the new navigation off for a 
+limited time in your profile.
+Check it out
+4
+Help & Support
+Jese Leos
+name@flowbite.com
+
+--- PAGE 2 ---
+Humance
+Global search
+Dashboard
+Personal
+Clients
+Ctrl K
+
+--- PAGE 3 ---
+Humance
+Global search
+Dashboard
+Personal
+Clients
+Ctrl K
+
+--- PAGE 4 ---
+Drawer heading Humance Jese Leos
+name@flowbite.com
+
+--- PAGE 5 ---
+List item 1
+List item 1
+List item 1
+List item 1
+List item 1
+List item 2
+List item 3
+List item 4
+List item 5
+List item 1
+List item 1
+List item 1
+1
+1
+1
+
+--- PAGE 6 ---
+Overview
+Pages
+Ecommerce
+All products
+Billing
+Invoice
+Transactions
+Messages
+Users
+Support
+Docs
+Components
+Help
+New dashboard!
+Preview the new Flowbite 
+dashboard navigation! You can 
+turn the new navigation off for a 
+limited time in your profile.
+Check it out
+Humance
+4
+Jese Leos
+name@flowbite.com
+Overview
+Pages
+Ecommerce
+All products
+Billing
+Invoice
+Transactions
+Messages
+Users
+Support
+4
+Flowbite dashboard
+Search
+Overview
+Pages
+Ecommerce
+All products
+Billing
+Invoice
+Transactions
+Messages
+Users
+Support
+4
+Help & Support
+Jese Leos
+name@flowbite.com
+Jese Leos
+name@flowbite.com

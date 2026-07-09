@@ -1,0 +1,123 @@
+Source: assets/source-materials/chat-bubble-component.pdf
+Pages: 4
+
+--- PAGE 1 ---
+Chat bubble component example
+This example shows how you can use the component as a variant. Simply click on the component, and you'll see 
+all the available options in the right sidebar.
+Coded version docs
+Joseph McFall 11:46
+Google calendar:
+10 am
+11 am
+12 am
+Available Time
+1 pm
+2 pm
+Delivered
+
+--- PAGE 2 ---
+Bonnie Green 11:46
+That's awesome. I think our users 
+will really appreciate the improvements.
+Delivered
+Bonnie Green 11:46
+That's awesome. I think our users 
+will really appreciate the improvements.
+Delivered
+Bonnie Green 11:46
+That's awesome. I think our users 
+will really appreciate the improvements.
+Delivered
+Bonnie Green 11:46
+That's awesome. I think our users 
+will really appreciate the improvements.
+Delivered
+
+--- PAGE 3 ---
+That's awesome. I think our users 
+will really appreciate the improvements.
+Flowbite Pro Terms & Conditions
+12 Pages 18 MB PDF
+3:42
+Google calendar:
+10 am
+11 am
+12 am
+Available Time
+1 pm
+2 pm
+This is the new office <3 This is the new office <3
++7
+Check out this open-source UI component 
+library based on:
+https:/ /github.com/themesberg/flowbite
+GitHub - themesberg/flowbite: The most 
+popular and open source libra ...
+github.com
+
+--- PAGE 4 ---
+Joseph McFall 11:46
+That's awesome. I think our users 
+will really appreciate the improvements.
+Delivered
+Joseph McFall 11:46
+That's awesome. I think our users 
+will really appreciate the improvements.
+Delivered
+Joseph McFall 11:46
+Flowbite Pro Terms & Conditions
+12 Pages 18 MB PDF
+Delivered
+Joseph McFall 11:46
+Flowbite Pro Terms & Conditions
+12 Pages 18 MB PDF
+Delivered
+Joseph McFall 11:46
+Delivered
+Joseph McFall 11:46
+Delivered
+3:42
+3:42
+Joseph McFall 11:46
+Google calendar:
+10 am
+11 am
+12 am
+Available Time
+1 pm
+2 pm
+Delivered
+Joseph McFall 11:46
+Google calendar:
+10 am
+11 am
+12 am
+Available Time
+1 pm
+2 pm
+Delivered
+Joseph McFall 11:46
+This is the new office <3
+Delivered
+Joseph McFall 11:46
+This is the new office <3
+Delivered
++7
++7
+Joseph McFall 11:46
+Check out this open-source UI component 
+library based on:
+https:/ /github.com/themesberg/flowbite
+GitHub - themesberg/flowbite: The most 
+popular and open source libra ...
+github.com
+Delivered
+Joseph McFall 11:46
+Check out this open-source UI component 
+library based on:
+https:/ /github.com/themesberg/flowbite
+GitHub - themesberg/flowbite: The most 
+popular and open source libra ...
+github.com
+Delivered

@@ -1,0 +1,148 @@
+Source: assets/source-materials/drawer-component.pdf
+Pages: 4
+
+--- PAGE 1 ---
+Drawer component example
+This example shows how you can use the component as a variant. Simply click on the component, and you'll see 
+all the available options in the right sidebar.
+Coded version docs
+Contact us
+Y our email *
+name@flowbite.com
+Subject *
+Enter your subject
+Y our message *
+4/500 words
+Send message
+
+--- PAGE 2 ---
+Drawer heading Humance
+Modal header
+Some helper text here
+Home E-commerce Users All users
+Modal header
+Some helper text here
+Modal header
+Some helper text here
+Modal header
+Some helper text here
+Modal header
+Some helper text here
+
+--- PAGE 3 ---
+Confirm Close Confirm Close Terms Privacy Confirm Button
+Confirm
+Button
+Button
+Button
+
+--- PAGE 4 ---
+Drawer heading
+Upgrade your Figma toolkit with a design system 
+built on top Flowbite CSS featuring variants, style 
+guide and auto layout.
+Recommended for professional developers and 
+companies building enterprise-level.
+Pricing & FAQ Get access
+Humance
+Overview
+Pages
+Ecommerce
+All products
+Billing
+Invoice
+Transactions
+Messages
+Users
+Support
+4
+Contact us
+Y our email *
+name@flowbite.com
+Subject *
+Enter your subject
+Y our message *
+4/500 words
+Send message
+New event
+Event title *
+Enter event title
+Event details
+Start date *
+12/08/2025
+Users
+Roberta M icheal
+S eparate wit h  commas or t h e Enter k ey.
+Close Create event
+Notice
+New dashboard
+W e h ave launc h ed t h e new F lowbite 
+D as h board featuring over 6 0 +  pages !
+Ch ec k  it out
+O rder in f o
+O rder date
+S tatus
+O rder number
+Sh ipping met h od
+Sh ip c h arge
+Ph one
+Email
+Estimated time
+J an 12,  2025
+A pp roved
+#7564937
+F edE x  G round
+$49
++12  345  67890
+name @f low b ite . com
+3  da y s
+O rder in f o
+Upgrade your Figma toolkit with a design system built on top Flowbite CSS featuring variants, style guide and auto layout.
+Recommended for professional developers and companies building enterprise-level.
+Pricing & FAQ Get access
+Add widget
+Ch art Ta b le Tic k et L ist Price F ile Users C ustom
+New event
+Event title *
+Enter event title
+Users
+Roberta M icheal
+S eparate wit h  commas or t h e Enter k ey.
+Event details
+Address line 1  *
+12/08/2025
+Address line 2*
+12/08/2025
+Cit y*
+12/08/2025
+Countr y*
+12/08/2025
+State *
+12/08/2025
+Postal code *
+12/08/2025
+T ime Z one *
+12/08/2025
+Close Create event
+O rder in f o
+O rder date
+J an 12 ,  2 0 2 5
+O rder date
+J an 12 ,  2 0 2 5
+S tatus
+A pp roved
+Heading 
+O rder date
+J an 12 ,  2 0 2 5
+O rder date
+J an 12 ,  2 0 2 5
+O rder date
+J an 12 ,  2 0 2 5
+S tatus
+A pp roved
+O rder date
+J an 12 ,  2 0 2 5
+O rder date
+J an 12 ,  2 0 2 5
+O rder date
+J an 12 ,  2 0 2 5

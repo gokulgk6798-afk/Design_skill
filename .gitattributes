@@ -1,0 +1,18 @@
+* text=auto
+
+*.md text eol=lf
+*.json text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+*.txt text eol=lf
+*.ps1 text eol=crlf
+
+*.pdf binary
+*.fig binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.jp2 binary
+*.aco binary
+*.sketchpalette binary
+*.ttf binary

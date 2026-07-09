@@ -1,0 +1,158 @@
+Source: assets/source-materials/autocomplete-input-component.pdf
+Pages: 3
+
+--- PAGE 1 ---
+First Action
+First Action
+First Action
+First Action
+First Action
+First Action
+First Action
+First Action
+First Action
+How do you build a navigation bar using Flowbite UI?
+flowbite, tailwind, figma, modern
+How do you build a navigation bar using Flowbite UI?
+flowbite, tailwind, figma, modern
+How do you build a navigation bar using Flowbite UI?
+flowbite, tailwind, figma, modern
+First Action
+First Action
+First Action
+Helper text
+Helper text
+Helper text
+
+--- PAGE 2 ---
+Recent
+Customizing colors
+Flowbite dropdown
+Responsive design
+Modern navbars
+Flowbite dashboard
+Recent
+Responsive alert
+Kanban board
+Jese Leos
+Jamie Wook
+Jessica Blacker
+Jay Kan
+Jamie Waker
+Jym Rey
+Add new user 
+First Action
+First Action
+First Action
+First Action
+First Action
+First Action
+First Action
+Articles
+How do you build a navigation bar using Flowbite UI?
+flowbite, tailwind, figma, modern
+How does “use strict” do in Flowbite?
+flowbite, tailwind, figma, modern
+How to build modern buttons with Flowbite?
+flowbite, tailwind, figma, modern
+Tags
+flowbite-react-framework
+flowbite-ui
+flowbite
+Users
+Flowdan Mattew
+Flora McFall
+People Files Tags More
+Peoples
+Leslie Livingston CEO
+Jese Leos UI/UX Designer
+Micheal Gough R ea c t De v elo p er
+Robert Brown S EO Sp e c ialist
+Articles
+terms & conditions . doc 2MB
+flowbite _ hero _ image .j pg 5.6MB
+fb-o ffi cial _ song . mp 310MB
+third _q uarter _ plans . pdf 34.6MB
+fb-o ffi cial _ video . mp 4408MB
+Tags
+flowbite-react-framework
+flowbite-ui
+flowbite
+
+--- PAGE 3 ---
+Search *
+Quick search for anyt|
+Recent
+Customizing colors
+Flowbite dropdown
+Responsive design
+Modern navbars
+Flowbite dashboard
+Recent
+Responsive alert
+Kanban board
+Search f or user *
+J a|
+J ese L eos
+J amie W oo k
+J essica B lac k er
+J a y  Kan
+J amie W a k er
+J y m Re y
+A dd new user 
+Search *
+Gri|
+Recent
+Grid Columns
+Grid Column Start / End
+Grid Template Rows
+grid
+Inline Grid
+Layout
+Grid Template Columns
+Grid Auto Rows
+Search *
+Gri|
+Grid Columns
+Grid Column Start / End
+Grid Template Rows
+grid
+Inline Grid
+Grid Template Columns
+Grid Auto Rows
+Save
+Search *
+Flow|
+Articles
+How do you build a navigation bar using Flowbite UI?
+flowbite, tailwind, figma, modern
+How does “use strict” do in Flowbite?
+javascript, tail w ind, fl ow bite
+How to build m odern buttons wit h  Flowbite?
+b uttons ,  m o d ern -d esi g n ,  ui
+T a g s
+fl o wb ite - rea c t -f ramewor k
+fl o wb ite - ui
+fl o wb ite
+U sers
+F lo w dan M attew
+Katt ie F lowr a
+Save
+Search *
+|
+P eople Files T ags More
+P eo p les
+L eslie L ivingston
+J ese L eos UI/UX  D esi g ner
+Micheal G ough R eact D e v elo p er
+fl o wb ite - rea c t -f ramewor kSEO  Sp ecialist
+Articles
+fl o wb ite - ui 2MB
+fl o wb ite 5.6MB
+F lo w dan M attew 10MB
+Katt ie F lowr a34 .6MB
+f b - o ffi cial _ video . mp 44 0 8 MB
+T a g s
+fl owbite - react -f ramewor k
+fl owbite - ui
+fl owbite

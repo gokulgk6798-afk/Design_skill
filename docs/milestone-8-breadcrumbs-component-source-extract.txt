@@ -1,0 +1,25 @@
+Source: assets/source-materials/breadcrumbs-component.pdf
+Pages: 3
+
+--- PAGE 1 ---
+Breadcrumb component example
+This example shows how you can use the component as a variant. Simply click on the component, and you'll see 
+all the available options in the right sidebar.
+Coded version docs
+Home E-commerce Users All users
+
+--- PAGE 2 ---
+Home Home Home
+
+--- PAGE 3 ---
+Home
+Home
+Home
+E-commerce Users All users
+E-commerce Users All users
+Settings Databases Flowbite
+Home Settings User settings
+flowbite.com
+flowbite.com develop
+databaseName
+Issue #312 docs Fix #6597

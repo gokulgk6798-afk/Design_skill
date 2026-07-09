@@ -1,0 +1,245 @@
+Source: assets/source-materials/accordion-component.pdf
+Pages: 2
+
+--- PAGE 1 ---
+Accordion component example
+This example shows how you can use the component as a variant. Simply click on the component, and you'll see 
+all the available options in the right sidebar.
+Coded version docs
+Can I use Flowbite in open-source projects?
+Generally, it is accepted to use Flowbite in open-source projects, as long as it is not a UI 
+library, a theme, a template, a page-builder that would be considered as an alternative to 
+Flowbite itself.
+With that being said, feel free to use this design kit for your open-source projects.
+Find out more information by reading the release.
+Can I contribute to the Flowbite project?
+What are the main features of Flowbite?
+Is Flowbite compatible with popular frontend frameworks?
+Does Flowbite offer pre-built components?
+Is Flowbite free to use ,  or does it ha v e premium features?
+H ow can I g et technical support for Flowbite?
+Where can I fi nd Flowbite documentation and g uides?
+Is Flowbite suitable for commercial projects?
+H ow can I g et support if I encounter issues with Flowbite?
+
+--- PAGE 2 ---
+Can I use Flowbite in open-source projects?
+Generally, it is accepted to use Flowbite in open-source projects, as long as it is not a UI 
+library, a theme, a template, a page-builder that would be considered as an alternative to 
+Flowbite itself.
+With that being said, feel free to use this design kit for your open-source projects.
+Find out more information by reading the release.
+Can I contribute to the Flowbite project?
+What are the main features of Flowbite?
+Is Flowbite compatible with popular frontend frameworks?
+Does Flowbite offer pre-built components?
+Is Flowbite free to use, or does it have premium features?
+How can I get technical support for Flowbite?
+Where can I fi nd Flowbite documentation and guides?
+Is Flowbite suitable for commercial projects?
+How can I get support if I encounter issues with Flowbite?
+Can I use Flowbite in open-source 
+projects?
+Generally, it is accepted to use Flowbite in open-
+source projects, as long as it is not a UI library, a 
+theme, a template, a page-builder that would be 
+considered as an alternative to Flowbite itself.
+With that being said, feel free to use this design 
+kit for your open-source projects.
+Find out more information by reading the release.
+Can I contribute to the Flowbite project?
+What are the main features of Flowbite?
+Is Flowbite compatible with popular 
+frontend frameworks?
+Does Flowbite offer pre-built 
+components?
+Is Flowbite free to use, or does it have 
+premium features?
+How can I get technical support for 
+Flowbite?
+Where can I fi nd Flowbite documentation 
+and guides?
+Is Flowbite suitable for commercial 
+projects?
+How can I get support if I encounter 
+issues with Flowbite?
+Can I contribute to the Flowbite project?
+What are the main features of Flowbite?
+Can I use Flow B ite in open-source projects?
+G enerally, it is accepted to use F lo wB ite in open-source projects, as long as it is not a UI  
+library, a the m e, a te m plate, a page-builder that w ould be considered as an alternati v e to 
+F lo wB ite itself.
+With that being said, feel free to use this design kit for your open-source projects.
+Find out more information by reading the release.
+Is Flowbite compatible with popular frontend frameworks?
+Does Flowbite offer pre-built components?
+Is Flowbite free to use, or does it have premium features?
+How can I get technical support for Flowbite?
+Where can I fi nd Flowbite documentation and guides?
+Is Flowbite suitable for commercial projects?
+How can I get support if I encounter issues with Flowbite?
+Can I contribute to t h e Flowbite project?
+Wh at are t h e m ain f eatures o f  Flowbite?
+Can I use Flow B ite in open-source 
+projects?
+G enerally, it is accepted to use F lo wB ite in open-
+source projects, as long as it is not a UI  library, a 
+the m e, a te m plate, a page-builder that w ould be 
+considered as an alternati v e to F lo wB ite itself.
+With that being said, feel free to use this design 
+kit for your open-source projects.
+Find out more information by reading the 
+release .
+Is Flowbite co m patible wit h  popular 
+f ronten d  f ra m ewor k s?
+D oes Flowbite o ff er pre-built co m ponents?
+Is Flowbite f ree to use ,  or d oes it h a v e 
+pre m iu m  f eatures?
+H ow can I g et tec h nical support f or 
+Flowbite?
+Wh ere can I fi n d  Flowbite d ocu m entation 
+an d  g ui d es?
+Is Flowbite suitable f or co mm ercial 
+projects?
+H ow can I g et support i f  I encounter issues 
+wit h  Flowbite?
+Can I use Flow B ite in open-source projects?
+G enerally, it is accepted to use F lo wB ite in open-source projects, as long as it is not a UI  library, a 
+the m e, a te m plate, a page-builder that w ould be considered as an alternati v e to F lo wB ite itself.
+With that being said, feel free to use this design kit for your open-source projects.
+Find out more information by reading the release.
+Wh ere can I access m y  d ownloa d  fi les?
+Is Flowbite co m patible wit h  popular f ronten d  f ra m ewor k s?
+Wh at are t h e m ain f eatures o f  Flowbite?
+D oes Flowbite o ff er pre-built co m ponents?
+Can I use Flow B ite f or co mm ercial purposes?
+Is Flowbite co m patible wit h  popular f ronten d  f ra m ewor k s?
+H ow can I g et tec h nical support f or Flowbite?
+Can I use Flow B ite f or co mm ercial purposes?
+H ow can I g et support i f  I encounter issues wit h  Flowbite?
+Can I use Flow B ite in open-source projects?
+G enerally, it is accepted to use F lo wB ite in open-
+source projects, as long as it is not a UI  library, a 
+the m e, a te m plate, a page-builder that w ould be 
+considered as an alternati v e to F lo wB ite itself.
+With that being said, feel free to use this design kit for 
+your open-source projects.
+F ind ou t mo re in fo r m ati o n by  reading the release.
+Wh ere can I access m y  d ownloa d  fi les?
+Is Flowbite co m patible wit h  popular f ronten d  
+f ra m ewor k s?
+Wh at are t h e m ain f eatures o f  Flowbite?
+D oes Flowbite o ff er pre-built co m ponents?
+Can I use Flow B ite f or co mm ercial purposes?
+Is Flowbite co m patible wit h  popular f ronten d  
+f ra m ewor k s?
+H ow can I g et tec h nical support f or Flowbite?
+Can I use Flow B ite f or co mm ercial purposes?
+H ow can I g et support i f  I encounter issues wit h  
+Flowbite?
+H ow d oes Flowbite d i ff er f ro m  ot h er U I libraries?
+Is Flowbite co m patible wit h  popular f ronten d  f ra m ewor k s?
+Is Flowbite co m patible wit h  popular f ronten d  f ra m ewor k s?
+Wh at are t h e m ain f eatures o f  Flowbite?
+Can I use Flow B ite f or co mm ercial purposes?
+H ow can I g et tec h nical support f or Flowbite?
+Is Flowbite co m patible wit h  popular f ronten d  f ra m ewor k s?
+H ow to install Flowbite f or m y  N e x t . js project?
+H ow to install Flowbite f or m y  R eact project?
+G enerally, it is accepted to use F lo wB ite in open-source projects, as long as it is not a UI  
+library, a the m e, a te m plate, a page-builder that w ould be considered as an alternati v e to 
+F lo wB ite itself.
+With that being said, feel free to use this design kit for your open-source projects.
+Find out more information by reading the release.
+Is Flowbite co m patible wit h  popular f ronten d  f ra m ewor k s?
+Can I use Flow B ite f or co mm ercial purposes?
+H ow can I g et support i f  I encounter issues wit h  Flowbite?
+H ow d oes Flowbite d i ff er f ro m  ot h er U I 
+libraries?
+Is Flowbite co m patible wit h  popular 
+f ronten d  f ra m ewor k s?
+Is Flowbite co m patible wit h  popular 
+f ronten d  f ra m ewor k s?
+Wh at are t h e m ain f eatures o f  Flowbite?
+Can I use Flow B ite f or co mm ercial 
+purposes?
+H ow can I g et tec h nical support f or 
+Flowbite?
+Is Flowbite co m patible wit h  popular 
+f ronten d  f ra m ewor k s?
+H ow to install Flowbite f or m y  N e x t . js 
+project?
+H ow to install Flowbite f or m y  R eact 
+project?
+G enerally, it is accepted to use F lo wB ite in open-
+source projects, as long as it is not a UI  library, a 
+the m e, a te m plate, a page-builder that w ould be 
+considered as an alternati v e to F lo wB ite itself.
+With that being said, feel free to use this design 
+kit for your open-source projects.
+Find out more information by reading the 
+release.
+Is Flowbite co m patible wit h  popular 
+f ronten d  f ra m ewor k s?
+Can I use Flow B ite f or co mm ercial 
+purposes?
+H ow can I g et support i f  I encounter issues 
+wit h  Flowbite?
+Introduction to Flowbite
+What is the Flowbite library?
+G enerally, it is accepted to use F lo wB ite in open-source projects, as long as it is not a UI  
+library, a the m e, a te m plate, a page-builder that w ould be considered as an alternati v e to 
+F lo wB ite itself.
+With that being said, feel free to use this design kit for your open-source projects.
+Find out more information by reading the release.
+Installation and Setup
+How can I install Flowbite in my project?
+C o m patibilit y  and Fra m ewor k s
+Which f ramewor k s are compatible with Flowbite?
+C o m ponent L ibrar y
+What types o f  components are a v ailable in Flowbite?
+C usto m i z ation O ptions
+C an I c u stomi z e Flowbite components?
+L icensin g  and P ricin g
+Is Flowbite f ree to u se?
+A ccessibilit y  Support
+D oes Flowbite s u pport accessibility stan d ar d s?
+D ocu m entation and T utorials
+Where can I f in d  Flowbite ’ s o ff icial d oc u mentation?
+U pdates and M aintenance
+How f re qu ently is Flowbite u p d ate d ?
+C o mm unit y  and Support
+How can I g et s u pport i f  I enco u nter iss u es with Flowbite?
+Introduction to Flowbite
+What is the Flowbite library?
+G enerally, it is accepted to use F lo wB ite in open-
+source projects, as long as it is not a UI  library, a 
+the m e, a te m plate, a page-builder that w ould be 
+considered as an alternati v e to F lo wB ite itself.
+With that being said, feel free to use this design 
+kit for your open-source projects.
+Find out more information by reading the 
+release.
+Installation and Setup
+How can I install Flowbite in my project?
+C o m patibilit y  and Fra m ewor k s
+Which f ramewor k s are compatible with 
+Flowbite?
+C o m ponent L ibrar y
+What types o f  components are a v ailable 
+in Flowbite?
+C usto m i z ation O ptions
+C an I c u stomi z e Flowbite components?
+L icensin g  and P ricin g
+Is Flowbite f ree to u se?
+A ccessibilit y  Support
+D oes Flowbite s u pport accessibility 
+stan d ar d s?
+D ocu m entation and T utorials
+Where can I f in d  Flowbite ’ s o ff icial 
+d oc u mentation?
+U pdates and M aintenance
+How f re qu ently is Flowbite u p d ate d ?
+C o mm unit y  and Support
+How can I g et s u pport i f  I enco u nter 
+iss u es with Flowbite?

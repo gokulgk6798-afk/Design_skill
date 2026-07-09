@@ -1,0 +1,185 @@
+Source: assets/source-materials/stepper-component.pdf
+Pages: 4
+
+--- PAGE 1 ---
+Stepper component example
+This example shows how you can use the component as a variant. Simply click on the component, and you'll see 
+all the available options in the right sidebar.
+Coded version docs
+Personal Info 2 Account Info 3 Payment Info 4 Review 
+Your content here
+Prev: Personal Info Next: Payment Info
+
+--- PAGE 2 ---
+1 First step
+1 First step
+First step
+First step
+First step
+First step
+First step
+First step
+First step
+First step
+First step
+Helper text here
+First step
+Helper text here
+First step
+Helper text here
+First step
+Helper text here
+First step
+Helper text here
+1 First step
+Helper text here
+1 First step
+Helper text here
+First step
+Helper text here
+First step
+Helper text here
+1 First step
+Helper text here
+1First step
+1First step
+1First step
+1First step
+1First step
+First step
+First step
+First step
+First step
+First step
+
+--- PAGE 3 ---
+Personal Info 2 Account Info
+Personal Info 2 Account Info 3 Payment Info
+3 Payment Info 4 Review 
+Personal Info
+Helper text here
+Account Info
+Helper text here
+Personal Info
+Helper text here
+Account Info
+Helper text here
+Payment Info
+Helper text here
+Review 
+Helper text here
+Payment Info
+Helper text here
+Review 
+Helper text here
+Personal Info Account Info
+Personal Info Account Info Payment Info Review 
+Payment Info Review Personal Info
+Helper text here
+Account Info
+Helper text here
+Payment Info
+Helper text here
+Review 
+Helper text here
+Personal Info
+Helper text here
+Account Info
+Helper text here
+Payment Info
+Helper text here
+Review 
+Helper text here
+1
+2
+3
+4
+Personal Info
+Account Settings
+Payment Details
+Review
+1
+2
+3
+4
+Personal Info
+Account Settings
+Payment Details
+Review
+
+--- PAGE 4 ---
+Personal Info 2 Account Info 3 Payment Info
+Your content here
+Prev: Personal Info
+Personal Info 2 Account Info 3 Payment Info
+Your content here
+Prev: Personal Info Next: Payment Info
+4 Review 
+Next: Payment Info
+Your content here
+Prev: Personal Info
+Your content here
+Prev: Personal Info Next: Payment Info
+Next: Payment Info
+Personal Info
+Helper text here
+Account Info
+Helper text here
+Payment Info
+Helper text here
+Your content here
+Next step
+Personal Info
+Helper text here
+Account Info
+Helper text here
+Payment Info
+Helper text here
+Review 
+Helper text here
+Your content here
+Next step
+Review 
+Helper text here
+Personal Info
+Helper text here
+Account Info
+Helper text here
+Payment Info
+Helper text here
+Prev: Personal Info
+Review 
+Helper text here
+Personal Info
+Helper text here
+Account Info
+Helper text here
+Payment Info
+Helper text here
+Review 
+Helper text here
+Your content here
+Prev: Personal Info Next: Payment Info
+Your content here
+Next: Payment Info
+1
+2
+3
+4
+Personal Info
+Account Settings
+Payment Details
+Review
+Prev: Personal Info
+1
+2
+3
+4
+Personal Info
+Account Settings
+Payment Details
+Review
+Your content here
+Prev: Personal Info Next: Payment Info
+Your content here
+Next: Payment Info

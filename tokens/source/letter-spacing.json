@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "category": "letter-spacing",
+    "status": "draft",
+    "owner": "Design System Owner",
+    "version": "0.0.0",
+    "description": "Architecture placeholder for future letter spacing tokens. No organization-specific values are defined.",
+    "dependencies": []
+  },
+  "tokens": {}
+}

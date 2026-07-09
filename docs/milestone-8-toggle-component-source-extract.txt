@@ -1,0 +1,65 @@
+Source: assets/source-materials/toggle-component.pdf
+Pages: 6
+
+--- PAGE 1 ---
+Toggle component example
+This example shows how you can use the component as a variant. Simply click on the component, and you'll see 
+all the available options in the right sidebar.
+Coded version docs
+Monthly Y early
+
+--- PAGE 2 ---
+Write some label text here Write some label text here *
+
+--- PAGE 3 ---
+Write helper text here
+
+--- PAGE 4 ---
+[No extractable text]
+
+--- PAGE 5 ---
+Label text
+Write helper text here
+Monthly Y early Toggle Toggle Toggle Toggle Weekly newsletter
+Save my credentials for easier sign-in in 
+the future. Integrate your knowledge base and customer success 
+seamlessy with your app.
+Weekly newsletter
+Save my credentials for easier sign-in in the future.
+
+--- PAGE 6 ---
+Weekly newsletter
+Toggle the switch to receive the latest 
+updates from us
+Flowbite community
+Toggle the switch to receive the latest 
+updates from us
+Flowbite jobs
+Toggle the switch to receive the latest 
+updates from us
+Feature requests
+Toggle the switch to receive the latest 
+updates from us
+Website maintenance
+Toggle the switch to receive the latest 
+updates from us
+Integrate your knowledge base and customer success 
+seamlessy with your app.
+Integrate your knowledge base and customer success 
+seamlessy with your app.
+Integrate your knowledge base and customer success 
+seamlessy with your app.
+Integrate your knowledge base and customer success 
+seamlessy with your app.
+Integrate your knowledge base and customer success 
+seamlessy with your app.
+Weekly newsletter
+Save my credentials for easier sign-in in the future.
+Weekly newsletter
+Save my credentials for easier sign-in in the future.
+Weekly newsletter
+Save my credentials for easier sign-in in the future.
+Weekly newsletter
+Save my credentials for easier sign-in in the future.
+Weekly newsletter
+Save my credentials for easier sign-in in the future.

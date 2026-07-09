@@ -1,0 +1,46 @@
+Source: assets/source-materials/toasts-component.pdf
+Pages: 3
+
+--- PAGE 1 ---
+Toast notification component example
+This example shows how you can use the component as a variant. Simply click on the component, and you'll see 
+all the available options in the right sidebar.
+Coded version docs
+
+--- PAGE 2 ---
+Update available
+The latest software version is now 
+accessible for download.
+Not now Update
+
+--- PAGE 3 ---
+Bonnie Green
+"Hi Bonnie, I appreciate you sharing your insights 
+on Flowbite."
+Reply
+N oti fi cation message here ! M essage sent successfully. New notification
+Bonnie Green
+commented on your photo
+a few seconds ago
+Close Reply
+Update available
+The latest software version is now 
+accessible for download.
+Not now Update
+C onnect your wallet
+C onnect your wallet by clic k ing the 
+bo tt om - right blue bu tt on.
+Close Connect
+Uploading in progress
+P lease wait while your fi le is being uploaded. 
+This may ta k e a moment.
+75%
+G o to u ploadsCancel
+Upload your invoice
+Upload your invoice in one of the supported formats (PDF, JPG, PNG) with a maximum file 
+size of 5MB. Ensure that all relevant details are visible for verification.
+Remind me later Upload invoice
+Whoops! Something went wrong
+The file format is not supported. Please upload a 
+valid file type (PDF, JPG, PNG).
+Close Try again

@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "category": "font-sizes",
+    "status": "in-review",
+    "owner": "Design System Owner",
+    "version": "0.0.0",
+    "description": "Source-derived font size tokens from approved Milestone 8 typography input.",
+    "dependencies": [
+      "docs/milestone-8-typography-spacing-source.md"
+    ]
+  },
+  "tokens": {
+    "font": {
+      "size": {
+        "display-xl": { "$value": "44px", "$type": "dimension" },
+        "display-l": { "$value": "36px", "$type": "dimension" },
+        "h1": { "$value": "30px", "$type": "dimension" },
+        "h2": { "$value": "24px", "$type": "dimension" },
+        "h3": { "$value": "20px", "$type": "dimension" },
+        "h4": { "$value": "18px", "$type": "dimension" },
+        "body-large": { "$value": "18px", "$type": "dimension" },
+        "body": { "$value": "16px", "$type": "dimension" },
+        "body-small": { "$value": "14px", "$type": "dimension" },
+        "caption": { "$value": "12px", "$type": "dimension" }
+      }
+    }
+  }
+}

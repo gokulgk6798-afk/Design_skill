@@ -1,0 +1,667 @@
+Source: assets/source-materials/forms-component.pdf
+Pages: 18
+
+--- PAGE 1 ---
+Input fileds & input forms component example
+This example shows how you can use the component as a variant. Simply click on the component, and you'll see 
+all the available options in the right sidebar.
+Coded version docs
+First name *
+Placeholder text
+Weak password. Must contain:
+First name USA California Delete
+Number of rooms *
+Bedrooms 4 Show all
+Last update: 20:45 AM, November 20, 2023
+Phone number *
++12 123-456-7890
+Activate account
+Last update: 20:45 AM, November 20, 2023
+Send code
+
+--- PAGE 2 ---
+First name First name * First name * Helper text
+
+--- PAGE 3 ---
+Weak password. Must contain: Roberta Micheal Neil Lana Weak password. Must contain: Refresh
+Weak password. Must contain:
+At least 10 characters
+At least a number
+At least one lowercase letter
+At least one upercase letter
+At least one symbol
+1,456+ Reviews No Credit Card Required
+
+--- PAGE 4 ---
+Placeholder text
+Placeholder text
+Placeholder text
+Placeholder text
+Placeholder text
+Placeholder text
+Placeholder text
+Placeholder text
+https:/ /
+https:/ /
+https:/ /
+https:/ /
+Placeholder text
+Placeholder text
+Placeholder text
+Placeholder text
+Placeholder text
+Placeholder text
+Placeholder text
+Button text
+Button text
+Button text
+Placeholder text Button text
+99
+Placeholder text
+99
+Placeholder text
+99
+Placeholder text
+99
+Placeholder text
+Write some text he|
+Write some text he|
+Write some text he|
+Write some text he|
+Write some text he|
+Write some text he|
+Write some text he|
+Write some text he|
+https:/ /
+https:/ /
+https:/ /
+https:/ /
+Write some text he|
+Write some text he|
+Write some text he|
+Write some text he|
+Write some text he|
+Write some text he|
+Write some text he|
+Button text
+Button text
+Button text
+Write some text he| Button text
+99
+Write some text he|
+99
+Write some text he|
+99
+Write some text he|
+99
+Write some text he|
+name@company.com
+name@company.com
+name@company.com
+name@company.com
+name@company.com
+name@company.com
+name@company.com
+name@company.com
+https:/ /
+https:/ /
+https:/ /
+https:/ /
+name@company.com
+name@company.com
+name@company.com
+name@company.com
+name@company.com
+name@company.com
+name@company.com
+Button text
+Button text
+Button text
+name@company.com Button text
+99
+name@company.com
+99
+name@company.com
+99
+name@company.com
+99
+name@company.com
+name@company.com
+name@company.com
+name@company.com
+name@company.com
+name@company.com
+name@company.com
+name@company.com
+name@company.com
+https:/ /
+https:/ /
+https:/ /
+https:/ /
+name@company.com
+name@company.com
+name@company.com
+name@company.com
+name@company.com
+name@company.com
+name@company.com
+Button text
+Button text
+Button text
+name@company.com Button text
+99
+name@company.com
+99
+name@company.com
+99
+name@company.com
+99
+name@company.com
+name@company.com
+name@company.com
+name@company.com
+name@company.com
+name@company.com
+name@company.com
+name@company.com
+name@company.com
+https:/ /
+https:/ /
+https:/ /
+https:/ /
+name@company.com
+name@company.com
+name@company.com
+name@company.com
+name@company.com
+name@company.com
+name@company.com
+Button text
+Button text
+Button text
+name@company.com Button text
+99
+name@company.com
+99
+name@company.com
+99
+name@company.com
+99
+name@company.com
+Write some text he|
+Write some text he|
+Write some text he|
+Write some text he|
+Write some text he|
+Write some text he|
+Write some text he|
+Write some text he|
+Write some text he|
+Write some text he|
+Write some text he|
+Write some text he|
+Write some text he|
+Write some text he|
+Write some text he|
+Write some text he|
+https:/ /
+https:/ /
+https:/ /
+https:/ /
+Write some text he|
+Write some text he|
+Write some text he|
+Write some text he|
+https:/ /
+https:/ /
+https:/ /
+https:/ /
+Write some text he|
+Write some text he|
+Write some text he|
+Write some text he|
+Write some text he|
+Write some text he|
+Write some text he|
+Button text
+Button text
+Button text
+Write some text he|
+Write some text he|
+Write some text he|
+Button text
+Button text
+Button text
+Write some text he| Button textWrite some text he| Button text
+99
+name@company.com
+99
+name@company.com
+99
+name@company.com
+99
+name@company.com
+99
+name@company.com
+99
+name@company.com
+99
+name@company.com
+99
+name@company.com
+
+--- PAGE 5 ---
+Write text here ...
+Write text here ...
+Send message
+Write text here ...
+Send message
+Write your message here
+Write text here ...
+Write text here ...
+Send message
+Write text here ...
+Send message
+Standard glass ,3.8GHz 8-core 10th-generation Intel Core i7 processor, T urbo 
+Boost up to 5.0GHz, 16GB 2666MHz DDR4 memory, Radeon Pro 5500 XT with 
+8GB of GDDR6 memory, 256GB SSD storage, Gigabit Ethernet, Magic Mouse 
+2, Magic Keyboard - US.
+Standard glass ,3.8GHz 8-core 10th-generation Intel Core i7 processor, T urbo 
+Boost up to 5.0GHz, 16GB 2666MHz DDR4 memory, Radeon Pro 5500 XT with 
+8GB of GDDR6 memory, 256GB SSD storage, Gigabit Ethernet, Magic Mouse 
+2, Magic Keyboard - US.
+Send message
+Standard glass ,3.8GHz 8-core 10th-generation Intel Core i7 processor, T urbo 
+Boost up to 5.0GHz, 16GB 2666MHz DDR4 memory, Radeon Pro 5500 XT with 
+8GB of GDDR6 memory, 256GB SSD storage, Gigabit Ethernet, Magic Mouse 
+2, Magic Keyboard - US.
+Send message
+
+--- PAGE 6 ---
+Format
+Write text here ...
+Format
+Write text here ...
+Send message
+Format
+Write text here ...
+Send message
+Format
+Write text here ...
+Format
+Write text here ...
+Send message
+Format
+Write text here ...
+Send message
+Format
+Standard glass ,3.8GHz 8-core 10th-generation Intel Core i7 processor, T urbo 
+Boost up to 5.0GHz, 16GB 2666MHz DDR4 memory, Radeon Pro 5500 XT with 
+8GB of GDDR6 memory, 256GB SSD storage, Gigabit Ethernet, Magic Mouse 
+2, Magic Keyboard - US.
+Format
+Standard glass ,3.8GHz 8-core 10th-generation Intel Core i7 processor, T urbo 
+Boost up to 5.0GHz, 16GB 2666MHz DDR4 memory, Radeon Pro 5500 XT with 
+8GB of GDDR6 memory, 256GB SSD storage, Gigabit Ethernet, Magic Mouse 
+2, Magic Keyboard - US.
+Send message
+Format
+Standard glass ,3.8GHz 8-core 10th-generation Intel Core i7 processor, T urbo 
+Boost up to 5.0GHz, 16GB 2666MHz DDR4 memory, Radeon Pro 5500 XT with 
+8GB of GDDR6 memory, 256GB SSD storage, Gigabit Ethernet, Magic Mouse 
+2, Magic Keyboard - US.
+Send message
+
+--- PAGE 7 ---
+First name *
+Placeholder text
+Weak password. Must contain:
+First name *
+Placeholder text
+Weak password. Must contain:
+Subscribe First name * Placeholder text
+First name *
+Placeholder text
+Weak password. Must contain:
+Placeholder text
+From *
+Placeholder text
+Weak password. Must contain:
+To *
+Placeholder text
+First name *
+Enter your email
+Subscribe
+Weak password. Must contain:
+First name *
+Button Placeholder text
+Weak password. Must contain:
+Button
+First name *
+Weak password. Must contain:
+Placeholder text
+Weekly newsletter
+Save my credentials for easier sign-in in the future.
+Placeholder text
+
+--- PAGE 8 ---
+Label info *
+Write text here ...
+A note for extra info.
+First name 
+Write text here ...
+Label info *
+Write text here ...
+A note for extra info.
+Send message
+
+--- PAGE 9 ---
+Select language *
+English (US)
+Weak password. Must contain:
+Choose your state *
+USA California
+Weak password. Must contain:
+Delete First name USA California Delete
+Select your hosting plan *
+Wordpress 10
+Select your hosting plan and provider
+GoDaddy
+From *
+$500
+Weak password. Must contain:
+To *
+$10000
+Select language *
+Day Month
+Weak password. Must contain:
+Year
+Choose your state *
+USA California
+Weak password. Must contain:
+
+--- PAGE 10 ---
+Search *
+Search
+Weak password. Must contain:
+Choose your state *
+All categories
+Weak password. Must contain:
+Search mockups, logos Search
+Choose your state *
+All categories
+Weak password. Must contain:
+Search mockups, logos Search
+Search *
+E.g. flowbite, react, vue
+Weak password. Must contain:
+Search
+Choose your state *
+http + https Search for domain or URL
+Weak password. Must contain:
+Subdomains First name All categories Search mockups, logos Search
+Search *
+Search
+Weak password. Must contain:
+Search
+Search *
+Search
+Weak password. Must contain:
+Search
+
+--- PAGE 11 ---
+Amount *
+Enter the ammount
+Last update: 20:45 AM, November 20, 2023
+Quantity *
+999
+Max 999
+Quantity
+Max 999
+*
+3
+Bedrooms
+Number of rooms *
+Bedrooms 4
+Last update: 20:45 AM, November 20, 2023
+Show all
+Amount *
+Sell Enter amount
+Last update: 20:45 AM, November 20, 2023
+USD
+Amount *
+Enter amount
+Last update: 20:45 AM, November 20, 2023
+USD First name Sell Enter amount USD
+Amount *
+Sell
+0 $500
+Enter amount
+$1000 $5000
+USD
+$10000
+Card details *
+1234-5678-1234-5678
+12/25 CVV
+Last update: 20:45 AM, November 20, 2023
+Accommodation details *
+3
+Bedrooms
+2
+Night stays
+6
+Guests
+Fill in the dates and specifics of your stay.
+Sell *
+$500 USD
+Last update: 20:45 AM, November 20, 2023
+Buy *
+$500 Bitcoin
+Refresh
+Quantity *
+99
+Max 999
+Amount *
+Enter amount
+Last update: 20:45 AM, November 20, 2023
+USD
+
+--- PAGE 12 ---
+Phone Number *
+Enter the ammount
+Select a phone number that matches the format.
+Phone number *
++12 123-456-7890
+Last update: 20:45 AM, November 20, 2023
+Send code
+Phone number *
++12 123-456-7890
+Last update: 20:45 AM, November 20, 2023
+Send code
+Phone number *
++12 123-456-7890
+Activate account
+Last update: 20:45 AM, November 20, 2023
+Send code
+Phone number *
+123-456-7890
+Last update: 20:45 AM, November 20, 2023
+Send SMS
+First name +12 123-456-7890 Send code
+Primary phone number: *
+123-456-7890
+Please set your primary phone number.
+Phone number *
++12 123-456-7890
+Last update: 20:45 AM, November 20, 2023
+
+--- PAGE 13 ---
+Label info *
+npm i flowbite
+A note for extra info.
+Label info *
+npm i flowbite
+A note for extra info.
+Copy
+Label info *
+URL
+A note for extra info.
+https:/ /flowbite.com Copy
+Label info *
+Phone number
+A note for extra info.
+123-456-7890 Copy
+Label info *
+URL https:/ /flowbite.com
+A note for extra info.
+Label info *
+Generate 12345678-ABCD-EFGH-IJKL-987654
+A note for extra info.
+Label info *
+npm i flowbite
+A note for extra info.
+Copy First name npm i flowbite Copy
+Label info *
+123-456-7890
+A note for extra info.
+Label info *
+A note for extra info.
+'use client';   
+import { Carousel } from 'flowbite-react';  
+function Component() { 
+  return ( 
+    <div className="h-56 sm:h-64 xl:h-80 
+2xl:h-96"> 
+      <Carousel>
+Copy
+
+--- PAGE 14 ---
+Click to upload or drag and drop
+Max. File Size: 30MB
+Download Temp.xlsx
+Browse file
+Drag and drop a file here, or:
+Browse Library Link
+Click to upload or drag and drop
+Max. File Size: 30MB
+Browse file
+Drag and drop a file here, or:
+Browse Library Link
+Click to upload or drag and drop
+Max. File Size: 30MB
+Browse file
+Drag and drop a file here, or:
+Browse Library Link
+Click to upload or drag and drop
+Max. File Size: 30MB
+Browse file
+Drag and drop a file here, or:
+Browse Library Link
+Click to upload or drag and drop
+Max. File Size: 30MB
+Browse file
+Drag and drop a file here, or:
+Browse Library Link
+
+--- PAGE 15 ---
+Upload file *
+Choose files No file chosen
+SVG, PNG, JPG or GIF (MAX. 800x400px).
+Upload file *
+Click to upload or drag and drop
+Max. File Size: 30MB
+Browse file
+SVG, PNG, JPG or GIF (MAX. 800x400px).
+Upload file *
+Click to upload or drag and drop
+Max. File Size: 30MB
+Download Temp.xlsx
+Browse file
+SVG, PNG, JPG or GIF (MAX. 800x400px).
+
+--- PAGE 16 ---
+Add tags (press Enter to add)
+Add tags (press Enter to add)
+Add tags (press Enter to add)
+Add tags (press Enter to add)
+Roberta 
+Roberta 
+Roberta 
+Bonn|Micheal
+Bonn|Micheal
+Bonn|Micheal
+Bonn|MichealRoberta 
+Roberta 
+Roberta 
+Roberta 
+Micheal
+Micheal
+Micheal
+Lana
+Lana
+Lana
+Roberta Micheal Lana
+Roberta 
+Roberta 
+Roberta 
+Micheal
+Micheal
+Micheal
+Lana
+Lana
+Lana
+Roberta Micheal Lana
+Roberta 
+Roberta 
+Roberta 
+Bonn|Micheal
+Bonn|Micheal
+Bonn|Micheal
+Bonn|MichealRoberta 
+Roberta 
+Roberta 
+Roberta 
+Bonn|Micheal
+Bonn|Micheal
+Bonn|Micheal
+Bonn|MichealRoberta 
+
+--- PAGE 17 ---
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+
+--- PAGE 18 ---
+Enter verification code *
+3 5 7
+Please enter the one-time code sent to your phone.
+Enter verification code *
+3 5 7
+Please enter the one-time code sent to your phone.
+Enter verification code *
+3 5 7
+Please enter the one-time code sent to your phone.
+Enter verification code *
+3 5 7
+Please enter the one-time code sent to your phone.

@@ -1,0 +1,307 @@
+SOURCE: C:\Users\Finstein-Emp\Downloads\Finstein_logo_guid_v.2.pdf
+PAGES: 15
+
+--- PAGE 1 ---
+Brand Book
+Visual identity guidelines
+
+--- PAGE 2 ---
+Brand Book
+Logo Identity Standards
+F+ + + =
+Forward arrow
+Moving Forward
+Charts Latter F
+Brand Identity 
+Visual identity guidelines
+Logo Structure
+
+--- PAGE 3 ---
+Logo Identity Standards
+This inspiration for the symbol is Finance “F”. it is a double F that looks 
+for the chart and arrow to upwords.
+SYMBOL
+Symbol
+Our wordmark uses a serif typeface that would appear elegant 
+but legible printed small or on low-resolution screens. 
+Wordmark
+WORDMARK
+Brand Identity 
+Visual identity guidelines
+Logo Structure
+
+--- PAGE 4 ---
+The clear space, or logo exclusion zone, is based on 
+the size of the symbol and ensures that the logo is not
+overwhelmed by any other elements. The exclusion zone
+applies to all applications of the logo, ensuring clear space 
+on all sides of the logo.
+As a guide, the logo should not be used any smaller than 
+7.5 mm (print). This size is a guide and may vary depending 
+on format and production but always ensure that each element 
+is readable.
+Minimum Size
+.7” / 2 cm square / 72 pixels
+Note: For sizes below 40 pixels refer to the signature 
+version of the brandmark.
+Positioning & Clear Space
+Brand Identity 
+Visual identity guidelines
+X
+1/2 X
+1/2 X 1/2 X
+1/2 X
+7.5mm
+
+--- PAGE 5 ---
+1.4
+The primary logo is the defaut arrangement of the logo and 
+tagline. It should be used in most instances. In cases where there 
+is limited space or the primary logo will not be practical, the 
+horizontal logo can be used. In very exceptional circumstances a 
+centres version of the logo is available.
+For certian applications and production processes, such 
+as screenprinting, newsprint or embroidery, an alternative an 
+optimised version of the logomay be required to ensure that the 
+symbol and wordmark are reproduced cleanly and clearly.
+Primary Logo 
+Brand Identity 
+Visual identity guidelines
+Achromatic Versions
+
+--- PAGE 6 ---
+There are several approved versions of the Finstein 
+brandmark. These versions have been created for the 
+speci/f_ic situations described on this page.
+Outline Version
+The outline version should be used in special situations when 
+the recommended solid brandmark versions (primary, second-
+ary and reverse) do not work. These situations include engrav-
+ing, embossing, etching, embroidery or any other situation 
+where production values severely limit a clean reproduction of 
+the non-outline versions. The outline version may be used in 
+black or white only.
+Brand Identity 
+Visual identity guidelines
+Approved Versions
+
+--- PAGE 7 ---
+Familiarise yourself woth these situations:
+ Avoid using the greyscale version of the logo.
+ The black outline version of the logo should be used for
+ single colour projects.
+ 
+ Avoid using the white gradient version of the logo on
+ solid backgrounds. The white outline version of the logo
+ should be used on solid or dark backgrounds.
+ Avoid editing or redrawing logo /f_iles.
+Logos are available for downloaad from Brand Centra.
+If you have questions or if you need an alternate varison of the logo,
+contact the Finstein Brand Team.
+Logo Identity Standards
+Visual identity guidelines
+Logo Misuse
+
+--- PAGE 8 ---
+Georgia, Circular Std and Arial are the recommended Goldman 
+Sachs fonts. Circular Std was chosen because it is clean and 
+contemporary — setting the tone for the Finstien brand.  Georgia 
+is a slightly more traditional typeface. Therefore, it provides a nod 
+to the tradition and history of Finstien. Arial is used by the UI 
+Toolkit for all digital apps. For PowerPoint and electronic media, 
+Arial and Times New Roman should be used.
+Georgia is a serif-style typeface, serifs being semistructural details on the ends of some of the 
+strokes that make up letters and symbols within this family
+Georgia
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrdtuvwxyz
+1234567890&
+Circular Std - Book
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrdtuvwxyz
+1234567890&
+Circular Std - Medium
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrdtuvwxyz
+1234567890&
+Circular Std - Bold
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrdtuvwxyz
+1234567890&
+Typography
+Visual identity guidelines
+Typography
+
+--- PAGE 9 ---
+Styling and
+proportion
+Headline
+level one
+Headline level two
+Headline level three
+Alternated subhead level if needed with in 
+document hierarchy
+Body copy is set at 9/12 pt, light 
+in this example. Eprepta veliquiste
+nient sum seressedi as doluptas
+tensiostias dolorunt reped minil.
+bullet point indent equals the 
+body copy pt size (9pt here)
+Bullets are set with Space 
+Before at 1/2 body copy leading
+16/8 pt light
+con periores eaqui assitatem esci can reptaes
+enisti. Di dolorio dunt, nonderf eremporem.
+Type Stying and Proporaation
+Inline subhead SMALLCAPS INLINE SUBHEAD
+The largest headline size used within a piece should be set in bold
+Deep Blue unless white is needed for a dark background. Lower-level 
+headlines and subheads may be set in black, dark blue or an accent 
+colour. Body copy should be set in black. Warm gery should never be 
+used for copy. See Colour section of the guideline for more information 
+about colour usage.
+Not all headline levels needs to be used in a single document/piece. 
+Use a number of hierarchy levels that feel proportional and appropriate. 
+In bulleted lists, letters and roman numerals should be used as needed.
+Typography
+Visual identity guidelines
+Typography
+
+--- PAGE 10 ---
+Hierarchy
+H1 bold 54/60
+H2 book 26/40
+H3 Book 18/20
+Alternated subhead level if needed with in 
+document hierarchy, book 13.5/15
+Body copy is set at 9/12 pt, light 
+in this example. Eprepta veliquiste
+nient sum seressedi as doluptas
+tensiostias dolorunt reped minil.
+bullet point indent equals the 
+body copy pt size (9pt here)
+Bullets are set with Space 
+Before at 1/2 body copy leading
+16/8 pt light
+con periores eaqui assitatem esci can reptaes
+enisti. Di dolorio dunt, nonderf eremporem.
+Type Hierarchy
+Inline subhead SMALLCAPS INLINE SUBHEAD
+Mathematic proporations for type are based on boady copy 
+values (9pt/12pt at right). The baseline grid increment is equal 
+to the body copy leading (12 pt at right). Use the equations 
+below to calculate values.
+H1 = X x 6 (9×6= 54pt)
+H2 = Xx4 (9×4=36pt)
+H3 = Xx2 (9×2=18 pt)
+Folio = 2/3 X
+Headline Leading =
+type size + (type size/X)
+Folio Leading = 2/3 L
+X = body copy pt size L = body copy leading
+Type Size Leading
+2/3 X
+ X
+1 1/2 X
+2 X
+4X
+6X
+Space After
+2L
+Space After
+1 1/2 L
+Space After
+1 1/2 L
+Space After
+ L
+Typography
+Visual identity guidelines
+Typography
+
+--- PAGE 11 ---
+Use the information on your Finstein business card as a guide when creating your 
+personal e-mail signature line. Include relevant contact information such as your tele-
+phone number, fax number, mailing address and e-mail address. State your job title 
+exactly as it appears on your business card. Do not use quotations, mottoes or taglines.
+     Use Arial ONLY for your font
+     The recommended font size is 9 or 10 pt.
+     Name in bold, and black, sublines in gray (#A4ACB2), hyperlinks in blue       
+(#03ABEC). No other colors or combinations are permitted.
+     Left-justify all lines of information
+Preferred Version with Hyperlinks
+Shashti Priyan 
+Designer
+Brand Guidelines Division
+Finstein
+Thiruvanmiyur | 27th Cross Street | Chennai
+Ph: 123-456-7890 | Cell: 9626830313
+email: priyan@/f_instein.ai
+Learn more about Finstein
+Finstein.ai | LinkedIn | YouTube | Twitter
+Alternate Version
+Shashti Priyan 
+Designer
+Brand Guidelines Division
+Finstein
+Thiruvanmiyur | 27th Cross Street | Chennai
+Ph: 123-456-7890 | Cell: 9626830313
+email: priyan@/f_instein.ai
+Typography
+Visual identity guidelines
+E-mail Signatures
+
+--- PAGE 12 ---
+The color palette is made up of a spectrum of colors. These are 
+the only colors approved for use in the development of marketing 
+communications. When used as the primary color in a printed 
+piece, any color may be used as a tint of at least 50%. For 1- or 
+2-color print jobs, the full range of tints is permitted.
+Color Schme
+Deep Blue
+CMYK      90, 75, 55, 68
+RGB       5, 28, 44
+HSB       230, 88, 17
+HEX       #051c2c
+Deep Blue
+CMYK     70, 16, 0, 0
+RGB      3, 171, 236
+HSB     196, 98, 92
+HEX       #03abec
+Color Palette
+Visual identity guidelines
+
+--- PAGE 13 ---
+White Heat map
+HEX  ECAB00
+HEX  fae3d3
+HEX  E93E30
+HEX  66BA20
+051C2C
+052C41
+053C57
+053C57
+045C81
+046B97
+047BAC
+038BC1
+039BD7
+03ABEC
+1FB4EE
+3BBEF0
+57C7F2
+73D0F4
+8FDAF7
+ABE3F9
+C7ECFB
+E3F6FD
+Color Palette
+Visual identity guidelines
+Color Schme
+
+--- PAGE 14 ---
+Logo Identity Standards
+Visual identity guidelines
+Business Card
+
+--- PAGE 15 ---
+

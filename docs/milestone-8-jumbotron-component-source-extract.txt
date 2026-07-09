@@ -1,0 +1,181 @@
+Source: assets/source-materials/jumbotron-component.pdf
+Pages: 2
+
+--- PAGE 1 ---
+Jumbotron component example
+This example shows how you can use the component as a variant. Simply click on the component, and you'll see 
+all the available options in the right sidebar.
+Coded version docs
+Added new jumbotron componentNew
+We invest in the world’s potential
+Here at flowbite we focus on markets where technology, innovation, and capital 
+can unlock long-term value and drive economic growth.
+Enter your email here Sign up
+
+--- PAGE 2 ---
+We invest in the world’s potential
+Here at flowbite we focus on markets where technology, innovation, and capital can 
+unlock long-term value and drive economic growth.
+Get started Learn more
+We invest in the world’s potential
+Here at flowbite we focus on markets where technology, innovation, and capital can 
+unlock long-term value and drive economic growth.
+Get started Learn more
+W e invest in the  
+world’s potential
+Here at flowbite we focus on markets where 
+technology, innovation, and capital can unlock 
+long-term value.
+Get started Learn more
+We invest in the world’s potential
+Here at flowbite we focus on markets where technology, innovation, and capital 
+can unlock long-term value and drive economic growth.
+Get started Learn more
+We invest in the world’s 
+potential
+Here at flowbite we focus on markets where technology, innovation, and 
+capital can unlock long-term value and drive economic growth.
+Get started Learn more
+We invest in the world’s 
+potential
+Here at flowbite we focus on markets where 
+technology, innovation, and capital can 
+unlock long-term value.
+Get started Learn more
+We invest in the 
+world’s potential
+Here at flowbite we focus on markets where technology, innovation, and 
+capital can unlock long-term value and drive economic growth.
+Get started Learn more
+We invest in the world’s potential
+Here at flowbite we focus on markets where technology, innovation, and capital can 
+unlock long-term value and drive economic growth.
+Get started Learn more
+We invest in the 
+world’ s potential
+Here at flowbite we focus on markets 
+where technology, innovation, and capital 
+can unlock long-term value and drive 
+economic growth.
+Get started Learn more
+We invest in the world’s 
+potential
+Here at flowbite we focus on markets where technology, innovation, 
+and capital can unlock long-term value and drive economic growth.
+Read more about our app
+Sign in to our platform
+Y our email *
+Enter your email
+Y our password *
+••••••••••
+Lost Password?Remember me
+Create account
+Not registered? Create account
+We invest in 
+the world’s 
+potential
+Here at flowbite we focus on markets 
+where technology, innovation, and 
+capital can unlock long-term value 
+and drive economic growth.
+Read more about our app
+Sign in to our platform
+Y our email *
+Enter your email
+Y our password *
+••••••••••
+Remember me Lost Password?
+Create account
+Not registered? Create account
+We invest in the 
+world’ s potential
+Here at flowbite we focus on markets where 
+technology, innovation, and capital can 
+unlock long-term value.
+Read more about our app
+Sign in to our platform
+Y our email *
+Enter your email
+Y our password *
+••••••••••
+Remember me Lost Password?
+Create account
+Not registered? Create account
+Added new jumbotron componentNew
+We invest in the world’s potential
+Here at flowbite we focus on markets where technology, innovation, and capital 
+can unlock long-term value and drive economic growth.
+Enter your email here Sign up
+Added new jumbotron componentNew
+We invest in the world’s potential
+Here at flowbite we focus on markets where technology, innovation, and 
+capital can unlock long-term value and drive economic growth.
+Enter your email here Sign up
+Added new jumbotron componentNew
+We invest in the 
+world’ s potential
+Here at flowbite we focus on markets where 
+technology, innovation, and capital can 
+unlock long-term value.
+Enter your email here Sign up
+We invest in the world’s potential
+Here at flowbite we focus on markets where technology, innovation, and capital can 
+unlock long-term value and drive economic growth.
+Get started Learn more
+F low b ite Compan y M ar k etplace F eatures Products T eam Contact Login U pgrade to PR O
+We invest in the world’s potential
+Here at flowbite we focus on markets where technology, innovation, and capital can 
+unlock long-term value and drive economic growth.
+Get started Learn more
+F low b ite Compan y M ar k etplace M ore Login U pgrade to PR O F low b ite Login
+We invest in the 
+world’s potential
+Here at flowbite we focus on markets where 
+technology, innovation, and capital can unlock 
+long-term value.
+Get started Learn more
+Automation
+S treamline workflows with advanced automation tools.
+A nal y ti c s
+G ain insights with real-time data analytics.
+Automation
+S treamline workflows with advanced 
+automation tools.
+A nal y ti c s
+G ain insights with real-time data 
+analytics.
+Automation
+S treamline workflows with advanced 
+automation tools.
+T as k  Sc hed u ler
+T as k  Sc hed u ler T as k  Sc hed u ler
+Report s Report s
+D a sh board D a sh board
+S e cu rit y
+P rotect your data with top-notch security features.
+C olla b oration
+E nhance teamwork with powerful collaboration tools.
+S e cu rit y
+P rotect your data with top-notch 
+security features.
+C olla b oration
+E nhance teamwork with powerful 
+collaboration tools.
+A nal y ti c s
+G ain insights with real-time data 
+analytics.
+E n c r y ption
+E n c r y ption Sign  in
+Sign  in
+Report s
+D a sh board
+Firewall
+Firewall
+S e cu rit y
+P rotect your data with top-notch 
+security features.
+E n c r y ption
+FirewallC olla b oration
+E nhance teamwork with powerful 
+collaboration tools.
+Sign  in

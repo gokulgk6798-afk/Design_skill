@@ -1,0 +1,184 @@
+{
+  "metadata": {
+    "category": "colors",
+    "status": "in-review",
+    "owner": "Design System Owner",
+    "version": "0.0.0",
+    "description": "Source-derived Finstein color tokens from approved palette files, Finstein logo guide v2, approved color role mapping, and accessibility-approved color combinations.",
+    "dependencies": [
+      "assets/color-palettes/figma-colors.json",
+      "assets/source-materials/finstein-logo-guide-v2.pdf",
+      "docs/milestone-8-source-register.md"
+    ]
+  },
+  "tokens": {
+    "color": {
+      "base": {
+        "black": { "$value": "#000000", "$type": "color" },
+        "white": { "$value": "#FFFFFF", "$type": "color" },
+        "neutral-200": { "$value": "#E0E0E0", "$type": "color" }
+      },
+      "brand": {
+        "deep-blue": {
+          "$value": "#051C2C",
+          "$type": "color",
+          "$description": "Deep Blue from Finstein logo guide v2. CMYK 90,75,55,68. RGB 5,28,44. HSB 230,88,17."
+        },
+        "bright-blue": {
+          "$value": "#03ABEC",
+          "$type": "color",
+          "$description": "Bright Blue from Finstein logo guide v2. CMYK 70,16,0,0. RGB 3,171,236. HSB 196,98,92."
+        },
+        "accent-teal": {
+          "$value": "#02D1A6",
+          "$type": "color",
+          "$description": "Source palette color from figma-colors.json."
+        },
+        "link-blue-legacy": {
+          "$value": "#0000EE",
+          "$type": "color",
+          "$description": "Source palette color from figma-colors.json."
+        }
+      },
+      "palette": {
+        "gold": { "$value": "#ECAB00", "$type": "color" },
+        "warm-peach": { "$value": "#FAE3D3", "$type": "color" },
+        "red": { "$value": "#E93E30", "$type": "color" },
+        "green": { "$value": "#66BA20", "$type": "color" },
+        "blue-950": { "$value": "#051C2C", "$type": "color" },
+        "blue-900": { "$value": "#052C41", "$type": "color" },
+        "blue-850": { "$value": "#053C57", "$type": "color" },
+        "blue-800": { "$value": "#045C81", "$type": "color" },
+        "blue-700": { "$value": "#046B97", "$type": "color" },
+        "blue-600": { "$value": "#047BAC", "$type": "color" },
+        "blue-500": { "$value": "#038BC1", "$type": "color" },
+        "blue-400": { "$value": "#039BD7", "$type": "color" },
+        "blue-300": { "$value": "#03ABEC", "$type": "color" },
+        "blue-250": { "$value": "#1FB4EE", "$type": "color" },
+        "blue-200": { "$value": "#3BBEF0", "$type": "color" },
+        "blue-150": { "$value": "#57C7F2", "$type": "color" },
+        "blue-100": { "$value": "#73D0F4", "$type": "color" },
+        "blue-75": { "$value": "#8FDAF7", "$type": "color" },
+        "blue-50": { "$value": "#ABE3F9", "$type": "color" },
+        "blue-25": { "$value": "#C7ECFB", "$type": "color" },
+        "blue-10": { "$value": "#E3F6FD", "$type": "color" }
+      },
+      "usage": {
+        "brand-primary": {
+          "$value": "{color.brand.deep-blue}",
+          "$type": "color",
+          "$description": "Primary brand color for brand identity, primary navigation, hero sections, primary buttons, high-emphasis text, and footer backgrounds."
+        },
+        "brand-secondary": {
+          "$value": "{color.brand.bright-blue}",
+          "$type": "color",
+          "$description": "Secondary brand color for secondary actions, links, interactive states, selected components, charts, data visualization, and highlights."
+        },
+        "headline-primary": {
+          "$value": "{color.brand.deep-blue}",
+          "$type": "color",
+          "$description": "Largest headline color unless white is needed on a dark background."
+        },
+        "body-copy": {
+          "$value": "{color.base.black}",
+          "$type": "color",
+          "$description": "Body copy should be black."
+        },
+        "email-signature-name": {
+          "$value": "{color.base.black}",
+          "$type": "color"
+        },
+        "email-signature-sublines": {
+          "$value": "#A4ACB2",
+          "$type": "color"
+        },
+        "email-signature-hyperlinks": {
+          "$value": "#03ABEC",
+          "$type": "color"
+        }
+      },
+      "accessible-pairs": {
+        "white-on-deep-blue": {
+          "foreground": "{color.base.white}",
+          "background": "{color.brand.deep-blue}",
+          "$type": "colorPair",
+          "$description": "Primary buttons, navigation, headers."
+        },
+        "white-on-bright-blue": {
+          "foreground": "{color.base.white}",
+          "background": "{color.brand.bright-blue}",
+          "$type": "colorPair",
+          "$description": "Secondary buttons, highlights."
+        },
+        "deep-blue-on-white": {
+          "foreground": "{color.brand.deep-blue}",
+          "background": "{color.base.white}",
+          "$type": "colorPair",
+          "$description": "Page titles, body text, forms."
+        },
+        "deep-blue-on-light-neutral": {
+          "foreground": "{color.brand.deep-blue}",
+          "background": "{color.neutral.surface-lightest}",
+          "$type": "colorPair",
+          "$description": "Cards, tables, dashboards."
+        },
+        "white-on-success-green": {
+          "foreground": "{color.base.white}",
+          "background": "{color.palette.green}",
+          "$type": "colorPair",
+          "$description": "Success badges and status indicators."
+        },
+        "white-on-warning-yellow": {
+          "foreground": "{color.base.white}",
+          "background": "{color.palette.gold}",
+          "$type": "colorPair",
+          "$description": "Warning banners and alerts."
+        },
+        "white-on-error-red": {
+          "foreground": "{color.base.white}",
+          "background": "{color.palette.red}",
+          "$type": "colorPair",
+          "$description": "Error messages and destructive actions."
+        }
+      },
+      "semantic": {
+        "success": {
+          "$value": "{color.palette.green}",
+          "$type": "color",
+          "$description": "Successful actions, completed states, confirmations."
+        },
+        "warning": {
+          "$value": "{color.palette.gold}",
+          "$type": "color",
+          "$description": "Pending actions, caution messages, warnings."
+        },
+        "error": {
+          "$value": "{color.palette.red}",
+          "$type": "color",
+          "$description": "Errors, destructive actions, validation failures."
+        },
+        "information": {
+          "$value": "{color.brand.bright-blue}",
+          "$type": "color",
+          "$description": "Informational messages, tips, guidance."
+        }
+      },
+      "neutral": {
+        "surface-darkest": { "$value": "{color.palette.blue-950}", "$type": "color" },
+        "surface-dark": { "$value": "{color.palette.blue-900}", "$type": "color" },
+        "surface-mid": { "$value": "{color.palette.blue-800}", "$type": "color" },
+        "surface-light": { "$value": "{color.palette.blue-50}", "$type": "color" },
+        "surface-lightest": { "$value": "{color.palette.blue-10}", "$type": "color" },
+        "border-subtle": { "$value": "{color.base.neutral-200}", "$type": "color" }
+      },
+      "heatmap": {
+        "low": { "$value": "{color.palette.blue-10}", "$type": "color" },
+        "low-mid": { "$value": "{color.palette.blue-50}", "$type": "color" },
+        "mid": { "$value": "{color.palette.blue-150}", "$type": "color" },
+        "mid-high": { "$value": "{color.palette.blue-300}", "$type": "color" },
+        "high": { "$value": "{color.palette.blue-600}", "$type": "color" },
+        "critical": { "$value": "{color.palette.blue-950}", "$type": "color" }
+      }
+    }
+  }
+}

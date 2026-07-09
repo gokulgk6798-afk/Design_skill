@@ -1,0 +1,55 @@
+Source: assets/source-materials/button-group-component.pdf
+Pages: 3
+
+--- PAGE 1 ---
+Button group component example
+This example shows how you can use the component as a variant. Simply click on the component, and you'll see 
+all the available options in the right sidebar.
+Coded version docs
+Days Weeks Months Y ears Decades
+
+--- PAGE 2 ---
+Button text Button Button Button Button Button Button Button Button
+Button text Button Button Button Button Button Button Button
+Button text Button Button Button Button Button Button
+Button text Button Button Button Button Button
+Button
+Button
+Button
+Button
+Button Button text
+Button Button Button text
+Button Button Button
+Button Button
+Button text
+Button Button Button text
+Button text Button Button Button Button Button Button Button Button
+Button text Button Button Button Button Button Button Button
+Button text Button Button Button Button Button Button
+Button text Button Button Button Button Button
+Button
+Button
+Button
+Button
+Button Button text
+Button Button Button text
+Button Button Button
+Button Button
+Button text
+Button Button Button text
+
+--- PAGE 3 ---
+Days Weeks Months Y ears Decades
+Download
+Save book
+456k
+All files Download
+Messages 1
+2 3 4 5 6 7 8 9 10
+Sign in
+104
+Days
+Weeks
+Months
+Y ears
+Decades

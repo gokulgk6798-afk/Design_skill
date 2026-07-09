@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "category": "breakpoints",
+    "status": "approved-source",
+    "owner": "Design System Owner",
+    "version": "0.0.0",
+    "description": "Source-derived breakpoint and grid tokens from approved Milestone 8 grid input.",
+    "dependencies": [
+      "docs/milestone-8-grid-system-source.md",
+      "knowledge/design/grid.md"
+    ]
+  },
+  "tokens": {
+    "breakpoint": {
+      "mobile-min": { "$value": "0px", "$type": "dimension" },
+      "mobile-max": { "$value": "767px", "$type": "dimension" },
+      "tablet-min": { "$value": "768px", "$type": "dimension" },
+      "tablet-max": { "$value": "1023px", "$type": "dimension" },
+      "laptop-min": { "$value": "1024px", "$type": "dimension" },
+      "laptop-max": { "$value": "1439px", "$type": "dimension" },
+      "desktop-min": { "$value": "1440px", "$type": "dimension" }
+    },
+    "grid": {
+      "web": {
+        "max-content-width": { "$value": "1440px", "$type": "dimension" },
+        "container-width": { "$value": "1320px", "$type": "dimension" },
+        "columns": { "$value": 12, "$type": "number" },
+        "gutter": { "$value": "24px", "$type": "dimension" },
+        "outer-margin": { "$value": "60px", "$type": "dimension" },
+        "base-spacing-unit": { "$value": "8px", "$type": "dimension" },
+        "minimum-touch-area": { "$value": "44px", "$type": "dimension" }
+      },
+      "mobile": {
+        "columns": { "$value": 4, "$type": "number" },
+        "margin": { "$value": "16px", "$type": "dimension" },
+        "gutter": { "$value": "16px", "$type": "dimension" },
+        "base-spacing-unit": { "$value": "8px", "$type": "dimension" },
+        "minimum-touch-area": { "$value": "48px", "$type": "dimension" },
+        "supported-widths": {
+          "$value": ["360px", "375px", "390px", "412px", "430px"],
+          "$type": "dimensionList"
+        }
+      },
+      "tablet": {
+        "columns": { "$value": 8, "$type": "number" },
+        "margin": { "$value": "32px", "$type": "dimension" },
+        "gutter": { "$value": "24px", "$type": "dimension" },
+        "base-spacing-unit": { "$value": "8px", "$type": "dimension" }
+      },
+      "presentation": {
+        "slide-width": { "$value": "1920px", "$type": "dimension" },
+        "slide-height": { "$value": "1080px", "$type": "dimension" },
+        "columns": { "$value": 12, "$type": "number" },
+        "outer-margin": { "$value": "80px", "$type": "dimension" },
+        "gutter": { "$value": "32px", "$type": "dimension" },
+        "baseline-grid": { "$value": "8px", "$type": "dimension" },
+        "readable-content-min": { "$value": "1280px", "$type": "dimension" },
+        "readable-content-max": { "$value": "1440px", "$type": "dimension" }
+      }
+    }
+  }
+}

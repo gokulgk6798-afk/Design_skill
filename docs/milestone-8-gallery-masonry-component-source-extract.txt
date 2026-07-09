@@ -1,0 +1,11 @@
+Source: assets/source-materials/gallery-masonry-component.pdf
+Pages: 2
+
+--- PAGE 1 ---
+Gallery component example
+This example shows how you can use the component as a variant. Simply click on the component, and you'll see 
+all the available options in the right sidebar.
+Coded version docs
+
+--- PAGE 2 ---
+All categories Business Fashion Toys Cars

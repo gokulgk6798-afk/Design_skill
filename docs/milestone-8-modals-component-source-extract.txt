@@ -1,0 +1,160 @@
+Source: assets/source-materials/modals-component.pdf
+Pages: 5
+
+--- PAGE 1 ---
+Modal component example
+This example shows how you can use the component as a variant. Simply click on the component, and you'll see 
+all the available options in the right sidebar.
+Coded version docs
+
+--- PAGE 2 ---
+Connect wallet
+Connect with one of our available wallet providers or create 
+a new one.
+MetaMask
+The leading self-custodial wallet
+Coinbase Wallet
+The most user-friendly wallet
+Opera Wallet
+A secure wallet for everyone
+WalletConnect
+A decentralized future
+Fortmatic
+Don't settle for less
+Why do I need to connect with my wallet?
+
+--- PAGE 3 ---
+Modal header Modal header
+Some helper text here
+Home E-commerce Users All users
+Modal header
+Some helper text here
+Modal header
+Some helper text here
+Modal header
+Some helper text here
+Modal header
+Modal header
+
+--- PAGE 4 ---
+Confirm Close Confirm Close T erms Privacy Confirm Button Button Showing 1-5 of 145 1 2 3 ... 10
+
+--- PAGE 5 ---
+Modal header
+Designed to accelerate your development process, Flowbite provides 
+everything from responsive navigation bars and buttons to complex 
+dashboards, modals, and forms. 
+With its focus on flexibility and ease of use, developers can quickly 
+customize and integrate these atomic components into their projects 
+without starting from scratch, saving time.
+Get started today and bring your web projects to life:
+Explore Flowbite UI Components
+View Live Demos
+Start with Flowbite Pro for Advanced Features
+Ready to level up your UI? Dive into Flowbite and experience 
+effortless design and development!
+Confirm Close
+Are you sure you want to delete this product 
+from your account?
+Confirm N o ,  c an c el
+Sign in to Flowbite
+Enter your details
+Google Meta
+or sign in with
+Github
+Email
+name@example.com
+Password
+••••••••
+Forgot password?
+Sign in to y our a cc ount
+Not registered? Create account
+A dd p rodu c t
+Produ c t name
+e.g i M ac P ro
+Pri c e Categor y
+$2999 S elect category
+Produ c t des c ri p tion
+W rite  product description h ere
+Confirm Can c el
+O p en p ositions
+S elect your desired position :
+UI/UX  Engineer
+Flow b ite
+R ea c t D e v elo p er
+A lp h a b et I nc.
+Full Sta ck  Engineer
+M eta I nc.
+Gra p hi c  designer
+M icroso ft  C orporation
+N e x t ste p
+Changelog
+10  Ma y  2025
+Flowbite Figma Design System v.2. 10
+500+  components &  o v er 50  new pages
+D ownload
+14  Mar c h 2025
+Flowbite Application UI
+O v er 70  new pages
+Changelog D ownload now
+22  Februar y  2025
+Flowbite Design System Free
+A ll atomic components
+D u p li c ate in Figma
+M y  D ownloads
+A ppro a c h in g  F u ll C a p a ci t y
+C hoosing the right server storage solution is 
+essential for maintaining data integrity .
+M y  storage 376,3  o f  500  G B  used
+Confirm Can c el
+Conne c t wallet
+C onnect with one of our available wallet providers or create 
+a new one.
+MetaMask
+T he leading self - custodial wallet
+Coinb ase  W a ll et
+T he most user - friendly wallet
+Op e r a  W a ll et
+A  secure wallet for everyone
+W a ll et Conn e c t
+A  decentralized future
+For t m at ic
+Don ' t settle for less
+Why do I need to connect with my wallet?
+Che ck  the p hone
+W e ’v e sent a code to you
+Enter v erifi c ation c ode *
+3 5 7
+P lease enter t h e one - time code sent to your p h one.
+N e x t ste p
+Share lin k
+Y our name, custom instructions, and any messages you add 
+after sharing stay private.  Learn more
+h ttps :/ /fl ow b ite.ai / s h are / ... Create lin k
+A  past version of this chat has already been shared. M anage 
+previously shared chats via S ettings.
+L in k edin R eddit x.c om
+Sign in to Flowbite
+Enter your details
+Google Meta
+or sign in with
+Github
+N ame
+Enter your name
+Com p an y  N ame
+Enter your company name
+Email
+name@example.com
+Password
+••••••••
+Forgot password?
+Sign in to y our a cc ount
+Not registered? Create account
+Sign in to Flowbite
+Enter your details
+Password
+••••••••
+Confirm Password
+••••••••
+Sign in to y our a cc ount
+Not registered? Create account

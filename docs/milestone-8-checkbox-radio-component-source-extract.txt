@@ -1,0 +1,277 @@
+Source: assets/source-materials/checkbox-radio-component.pdf
+Pages: 7
+
+--- PAGE 1 ---
+Checkbox & radio component example
+This example shows how you can use the component as a variant. Simply click on the component, and you'll see 
+all the available options in the right sidebar.
+Coded version docs
+Remember me
+Remember me
+Save my credentials for easier sign-in
+
+--- PAGE 2 ---
+Write some label text here Write some label text here * Write some label text here 3 Write some label text here
+
+--- PAGE 3 ---
+Write helper text here
+
+--- PAGE 4 ---
+[No extractable text]
+
+--- PAGE 5 ---
+Remember me
+Remember me
+
+--- PAGE 6 ---
+Remember me
+Remember me
+Remember me
+Remember me
+Save my credentials for easier sign-in
+Remember me
+Save my credentials for easier sign-in
+Remember me
+Save my credentials for easier sign-in
+Remember me
+Save my credentials for easier sign-in
+Remember me
+Save my credentials for easier sign-in
+Remember me
+Save my credentials for easier sign-in
+Spacing and Grid
+Control the spacing and grid settings.
+Spacing and Grid
+Control the spacing and grid settings.
+Spacing and Grid
+Control the spacing and grid settings.
+Delivery at home
+Get it delivered to your door.
+Delivery at home
+Get it delivered to your door.
+Delivery at home
+Get it delivered to your door.
+Angular
+A TypeScript-based web 
+application framework.
+Angular
+A TypeScript-based web 
+application framework.
+Angular
+A TypeScript-based web 
+application framework.
+Web design
+Web design
+Web design
+5
+5
+5
+Customize Themes and Extend Functionality
+Tommorow 45
+Customize Themes and Extend Functionality
+Tommorow 45
+Customize Themes and Extend Functionality
+Tommorow 45
+Starter plan
+Perfect for individuals or small teams.
+$19 /month
+This plan includes hosting for a single website, with 10 GB of SSD storage to ensure fast and reliable 
+performance for your files and content.
+Starter plan
+Perfect for individuals or small teams.
+$19 /month
+This plan includes hosting for a single website, with 10 GB of SSD storage to ensure fast and reliable 
+performance for your files and content.
+Starter plan
+Perfect for individuals or small teams.
+$19 /month
+This plan includes hosting for a single website, with 10 GB of SSD storage to ensure fast and reliable 
+performance for your files and content.
+Web design
+Web design
+Web design
+(20)
+(20)
+(20)
+Remember me
+Remember me
+Remember me
+Visa ending in 7658
+Expiry 10/2024
+Delete Edit
+Visa ending in 7658
+Expiry 10/2024
+Delete Edit
+Visa ending in 7658
+Expiry 10/2024
+Delete Edit
+Spacing and Grid
+Control the spacing and grid settings.
+Spacing and Grid
+Control the spacing and grid settings.
+Spacing and Grid
+Control the spacing and grid settings.
+Remember me
+Save my credentials for easier sign-in
+Remember me
+Save my credentials for easier sign-in
+Remember me
+Save my credentials for easier sign-in
+
+--- PAGE 7 ---
+Weekly newsletter
+Save my credentials for easier sign-in
+Products
+Save my credentials for easier sign-in
+Flowbite community
+Save my credentials for easier sign-in
+Flowbite jobs
+Save my credentials for easier sign-in
+Promotions
+Save my credentials for easier sign-in
+Events
+Save my credentials for easier sign-in
+Security alerts
+Save my credentials for easier sign-in
+Feature requests
+Save my credentials for easier sign-in
+Blog updates
+Save my credentials for easier sign-in
+Website maintenance
+Save my credentials for easier sign-in
+Weekly newsletter
+Products
+Flowbite community
+Flowbite jobs
+Promotions
+Events
+Security alerts
+Feature requests
+Blog updates
+Website maintenance
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+Weekly newsletter
+Products
+Flowbite community
+Flowbite jobs
+Promotions
+Events
+Security alerts
+Feature requests
+Blog updates
+Website maintenance
+Weekly newsletter
+Save my credentials for easier sign-in
+Products
+Save my credentials for easier sign-in
+Flowbite community
+Save my credentials for easier sign-in
+Flowbite jobs
+Save my credentials for easier sign-in
+Promotions
+Save my credentials for easier sign-in
+Events
+Save my credentials for easier sign-in
+Security alerts
+Save my credentials for easier sign-in
+Feature requests
+Save my credentials for easier sign-in
+Blog updates
+Save my credentials for easier sign-in
+Website maintenance
+Save my credentials for easier sign-in
+Electronics/TV
+Control the spacing and grid settings.
+Gaming & Consoles
+Control the spacing and grid settings.
+PC & Office
+Control the spacing and grid settings.
+Phone/Tablets
+Control the spacing and grid settings.
+Photo/Video
+Control the spacing and grid settings.
+Car & Motorbike
+Control the spacing and grid settings.
+Toys
+Control the spacing and grid settings.
+Office 
+Control the spacing and grid settings.
+Food & Grocery
+Control the spacing and grid settings.
+Fashion/Clothes
+Control the spacing and grid settings.
+Angular
+A TypeScript-based web 
+application.
+Angular
+A TypeScript-based web 
+application.
+Angular
+A TypeScript-based web 
+application.
+Angular
+A TypeScript-based web 
+application.
+Angular
+A TypeScript-based web 
+application.
+Angular
+A TypeScript-based web 
+application.
+Angular
+A TypeScript-based web 
+application.
+Angular
+A TypeScript-based web 
+application.
+Angular
+A TypeScript-based web 
+application.
+Angular
+A TypeScript-based web 
+application.
+Web design
+Web design
+Web design
+Web design
+Web design
+Web design
+Web design
+Web design
+Web design
+Web design
+Web design
+Customize Themes and Extend Functionality
+Tommorow 45
+Customize Themes and Extend Functionality
+Tommorow 45
+Customize Themes and Extend Functionality
+Tommorow 45
+Customize Themes and Extend Functionality
+Tommorow 45
+Customize Themes and Extend Functionality
+Tommorow 45
+Basic plan
+Perfect for individuals or small teams.
+$19 /month
+This plan includes hosting for a single website, with 10 GB of SSD storage to ensure fast and reliable 
+performance for your files and content.
+Standard plan
+Perfect for individuals or small teams.
+$ 4 9/month
+This plan includes hosting for a single website, with 50 GB of SSD storage to ensure fast and reliable 
+performance for your files and content.
+Pro plan
+Perfect for individuals or small teams.
+$99 /month
+This plan includes hosting for a single website, with 100 GB of SSD storage to ensure fast and reliable 
+performance for your files and content.

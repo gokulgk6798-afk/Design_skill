@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "category": "line-heights",
+    "status": "in-review",
+    "owner": "Design System Owner",
+    "version": "0.0.0",
+    "description": "Source-derived line height tokens from approved Milestone 8 typography input.",
+    "dependencies": [
+      "docs/milestone-8-typography-spacing-source.md"
+    ]
+  },
+  "tokens": {
+    "font": {
+      "line-height": {
+        "display-xl": { "$value": "52px", "$type": "dimension" },
+        "display-l": { "$value": "44px", "$type": "dimension" },
+        "h1": { "$value": "38px", "$type": "dimension" },
+        "h2": { "$value": "32px", "$type": "dimension" },
+        "h3": { "$value": "28px", "$type": "dimension" },
+        "h4": { "$value": "26px", "$type": "dimension" },
+        "body-large": { "$value": "28px", "$type": "dimension" },
+        "body": { "$value": "24px", "$type": "dimension" },
+        "body-small": { "$value": "22px", "$type": "dimension" },
+        "caption": { "$value": "18px", "$type": "dimension" }
+      }
+    }
+  }
+}

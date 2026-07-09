@@ -1,0 +1,284 @@
+Source: assets/source-materials/dropdowns-component.pdf
+Pages: 5
+
+--- PAGE 1 ---
+Dropdown component example
+This example shows how you can use the component as a variant. Simply click on the component, and you'll see 
+all the available options in the right sidebar.
+Coded version docs
+Dropdown
+Unlock all models now $19
+Upgrade now monthly
+Gemini 2.0 Flash
+Gpt-4o-mini
+Claude 3 Haiku
+DeepSeek v3 (Fireworks)
+Claude 3.5 Sonnet
+Mistral ai
+DeepSeek v3 (Fireworks)
+Show all
+
+--- PAGE 2 ---
+First Action
+First Action
+First Action
+First Action
+First Action
+First Action
+(456)
+(456)
+(456)
+First Action
+First Action
+First Action
+First Action
+First Action
+First Action
+(456)
+(456)
+(456)
+First Action
+First Action
+First Action
+(456)
+(456)
+(456)
+First Action
+First Action
+First Action
+First Action
+First Action
+First Action
+Remember me
+Save my credentials for easier sign-in
+Remember me
+Save my credentials for easier sign-in
+Remember me
+Save my credentials for easier sign-in
+First Action
+First Action
+First Action
+U
+U
+U
+Jese Leos
+name@flowbite.com
+Jese Leos
+name@flowbite.com
+Jese Leos
+name@flowbite.com
+Default
+First Action
+First Action
+First Action
+First Action
+First Action
+First Action
+First Action
+First Action
+First Action
+First Action
+First Action
+First Action
+(456)
+(456)
+(456)
+First Action
+First Action
+First Action
+
+--- PAGE 3 ---
+Jese Leos
+name@flowbite.com
+Jese Leos
+name@flowbite.com PRO
+Jese Leos
+name@flowbite.com Search
+Hello, Jese Leos
+name@flowbite.com
+View account
+
+--- PAGE 4 ---
+Account
+Settings
+Privacy
+Notifications
+Help center
+Sign out
+Jese Leos
+name@flowbite.com
+Account
+Settings
+Privacy
+Notifications
+Help center
+Dark mode
+Upgrade to PRO
+Sign out
+Basic
+Bold
+Italic
+Underline
+Strikethrough
+Create link
+Ordered list
+Unordered list
+Font family
+Font si z e
+Font color
+B
+I
+U
+X
+K
+8
+7
+Individual
+Company
+Enterprise
+Non-profit
+Goverment
+(456)
+(53)
+(34)
+(70)
+(103)
+Enable notifications
+Never miss out on important events, launches 
+and webinars.
+Enable 2FA authentication
+Add an extra layer of security to your account 
+and stay safe.
+Remember me on this device
+Stay logged in without needing to enter your 
+password again.
+Require 
+password 
+for every 
+login
+Always re q uire your 
+password for each login 
+to ensure maximum 
+security
+Subscribe to our newsletter
+Stay informed about our latest news and 
+promotions.
+Remember me
+Save my credentials for easier sign -
+in
+Remember me
+Save my credentials for easier sign -
+in
+Remember me
+Save my credentials for easier sign -
+in
+Search for user
+Bonnie Green
+Jese Leos
+Roberta Casas
+K aren Nelson
+Joseph M cFall
+Helene Engels
+T homas Lean
+Robert Brown
+Lana Byrd
+Leslie Livingston
+Delete user
+Search for user
+Leslie Livingston
+Robert Brown
+Lana Byrd
+K aren Nelson
+Joseph M cFall
+Roberta Casas
+Jese Leos
+T homas Lean
+Add users 
+First Action
+First Action
+Save to collection
+M odern UI elements
+T op navbars collection
+Premium Button Styles
+E-commerce design gems
+UI animations
+Create new collection
+Joseph M cFall
+L ast active 3 hrs ago
+Leslie Livingston
+L ast active last wee k
+M icheal Gough
+L ast active 1 min ago
+Roberta Casas
+L ast active 1 month ago
+Default
+No notifications yet
+Y ou ' re all caught up !  C hec k  bac k  later for 
+updates or new alerts.
+Start date to E nd date
+Account Settings Inbo x
+Calendar Chat Sales
+Products Invoices Support
+English
+French
+Espaniol
+Deutch
+Italiano
+ 中文  (繁體 )
+Unlock all models now $19
+Upgrade now monthly
+Gemini 2 .0  Flash
+Gpt- 4 o-mini
+Claude 3  Haiku
+DeepSeek v 3  ( Fireworks)
+Claude 3.5  Sonnet
+M istral ai
+DeepSeek v 3  ( Fireworks)
+Show all
+Adults
+Age 13 +
+Children
+$ Ages 2 - 1 2
+Infants
+U nder 2
+Pets
+2
+4
+2
+1
+
+--- PAGE 5 ---
+Dropdown
+Account
+Settings
+Privacy
+Notifications
+Help center
+Sign out
+Account
+Settings
+Privacy
+Notifications
+Help center
+Sign out
+Account
+Settings
+Privacy
+Notifications
+Help center
+Sign out
+Account
+Settings
+Privacy
+Notifications
+Help center
+Sign out
+Jese leos
+Account
+Settings
+Privacy
+Notifications
+Help center
+Sign out
+31 Nov - 31 Dec
+Start date to End date

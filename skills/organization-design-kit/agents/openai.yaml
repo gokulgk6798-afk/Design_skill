@@ -1,0 +1,7 @@
+interface:
+  display_name: "Organization Design Kit"
+  short_description: "Use the design source of truth"
+  brand_color: "#051C2C"
+  default_prompt: "Use $organization-design-kit to create a brand-compliant artifact from my brief."
+policy:
+  allow_implicit_invocation: true

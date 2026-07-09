@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "category": "radius",
+    "status": "approved-source",
+    "owner": "Design System Owner",
+    "version": "0.0.0",
+    "description": "Source-derived radius tokens from approved Milestone 8 radius system input.",
+    "dependencies": [
+      "docs/milestone-8-radius-system-source.md",
+      "knowledge/design/radius.md"
+    ]
+  },
+  "tokens": {
+    "radius": {
+      "0": { "$value": "0px", "$type": "dimension", "$description": "Tables, dividers, edge-to-edge layouts." },
+      "4": { "$value": "4px", "$type": "dimension", "$description": "Input fields, chips, tags, compact controls." },
+      "8": { "$value": "8px", "$type": "dimension", "$description": "Buttons, text fields, dropdowns, badges." },
+      "12": { "$value": "12px", "$type": "dimension", "$description": "Cards, dialogs, navigation panels." },
+      "16": { "$value": "16px", "$type": "dimension", "$description": "Feature cards, dashboards, large containers." },
+      "24": { "$value": "24px", "$type": "dimension", "$description": "Hero cards, promotional banners, presentation cards." },
+      "full": { "$value": "999px", "$type": "dimension", "$description": "Avatars, pills, status indicators, circular buttons." }
+    },
+    "component-radius": {
+      "web": {
+        "primary-button": { "$value": "{radius.8}", "$type": "dimension" },
+        "secondary-button": { "$value": "{radius.8}", "$type": "dimension" },
+        "text-field": { "$value": "{radius.8}", "$type": "dimension" },
+        "dropdown": { "$value": "{radius.8}", "$type": "dimension" },
+        "checkbox": { "$value": "{radius.4}", "$type": "dimension" },
+        "radio-button": { "$value": "{radius.full}", "$type": "dimension" },
+        "switch": { "$value": "{radius.full}", "$type": "dimension" },
+        "chip": { "$value": "{radius.4}", "$type": "dimension" },
+        "badge": { "$value": "{radius.8}", "$type": "dimension" },
+        "card": { "$value": "{radius.12}", "$type": "dimension" },
+        "dialog": { "$value": "{radius.12}", "$type": "dimension" },
+        "drawer": { "$value": "{radius.16}", "$type": "dimension" },
+        "tooltip": { "$value": "{radius.8}", "$type": "dimension" }
+      },
+      "mobile": {
+        "button": { "$value": "{radius.8}", "$type": "dimension" },
+        "input": { "$value": "{radius.8}", "$type": "dimension" },
+        "bottom-sheet": { "$value": "{radius.16}", "$type": "dimension" },
+        "card": { "$value": "{radius.16}", "$type": "dimension" },
+        "navigation-card": { "$value": "{radius.16}", "$type": "dimension" },
+        "floating-action-button": { "$value": "{radius.full}", "$type": "dimension" },
+        "avatar": { "$value": "{radius.full}", "$type": "dimension" },
+        "image-card": { "$value": "{radius.16}", "$type": "dimension" }
+      },
+      "presentation": {
+        "content-card": { "$value": "{radius.16}", "$type": "dimension" },
+        "feature-card": { "$value": "{radius.16}", "$type": "dimension" },
+        "statistics-card": { "$value": "{radius.16}", "$type": "dimension" },
+        "process-card": { "$value": "{radius.16}", "$type": "dimension" },
+        "image-container": { "$value": "{radius.16}", "$type": "dimension" },
+        "callout-box": { "$value": "{radius.12}", "$type": "dimension" },
+        "highlight-label": { "$value": "{radius.8}", "$type": "dimension" },
+        "interactive-mockup-button": { "$value": "{radius.8}", "$type": "dimension" }
+      }
+    }
+  }
+}

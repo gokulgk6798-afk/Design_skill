@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "category": "spacing",
+    "status": "in-review",
+    "owner": "Design System Owner",
+    "version": "0.0.0",
+    "description": "Source-derived spacing tokens from approved Milestone 8 typography, spacing, and grid inputs.",
+    "dependencies": [
+      "docs/milestone-8-typography-spacing-source.md",
+      "docs/milestone-8-grid-system-source.md",
+      "knowledge/design/spacing.md"
+    ]
+  },
+  "tokens": {
+    "spacing": {
+      "xs": { "$value": "4px", "$type": "dimension" },
+      "s": { "$value": "8px", "$type": "dimension" },
+      "m": { "$value": "16px", "$type": "dimension" },
+      "l": { "$value": "24px", "$type": "dimension" },
+      "xl": { "$value": "32px", "$type": "dimension" },
+      "xxl": { "$value": "40px", "$type": "dimension" },
+      "3xl": { "$value": "48px", "$type": "dimension" },
+      "4xl": { "$value": "64px", "$type": "dimension" },
+      "5xl": { "$value": "80px", "$type": "dimension" },
+      "6xl": { "$value": "96px", "$type": "dimension" },
+      "title-to-content": { "$value": "24px", "$type": "dimension" },
+      "paragraph-to-paragraph": { "$value": "16px", "$type": "dimension" },
+      "heading-to-paragraph": { "$value": "16px", "$type": "dimension" },
+      "card-padding": { "$value": "24px", "$type": "dimension" },
+      "section-gap": { "$value": "40px", "$type": "dimension" },
+      "icon-to-text": { "$value": "12px", "$type": "dimension" },
+      "bullet-gap": { "$value": "8px", "$type": "dimension" },
+      "web-gutter": { "$value": "24px", "$type": "dimension" },
+      "web-outer-margin": { "$value": "60px", "$type": "dimension" },
+      "mobile-margin": { "$value": "16px", "$type": "dimension" },
+      "mobile-gutter": { "$value": "16px", "$type": "dimension" },
+      "tablet-margin": { "$value": "32px", "$type": "dimension" },
+      "tablet-gutter": { "$value": "24px", "$type": "dimension" },
+      "presentation-outer-margin": { "$value": "80px", "$type": "dimension" },
+      "presentation-gutter": { "$value": "32px", "$type": "dimension" }
+    }
+  }
+}

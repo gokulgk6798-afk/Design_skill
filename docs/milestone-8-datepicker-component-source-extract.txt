@@ -1,0 +1,298 @@
+Source: assets/source-materials/datepicker-component.pdf
+Pages: 5
+
+--- PAGE 1 ---
+Datepicker component example
+This example shows how you can use the component as a variant. Simply click on the component, and you'll see 
+all the available options in the right sidebar.
+Coded version docs
+Date of birth *
+|
+June 2025
+Sun Mon Tue Wed Thu Fri Sat
+1
+8
+15
+22
+29
+2
+9
+16
+23
+30
+Clear
+3
+10
+17
+24
+31
+4
+11
+18
+25
+1
+5
+12
+19
+26
+2
+6
+13
+20
+27
+3
+Today
+7
+14
+21
+28
+4
+
+--- PAGE 2 ---
+June 2021
+
+--- PAGE 3 ---
+12 12 12 12 12 12 12 12
+
+--- PAGE 4 ---
+June 2025
+Sun Mon Tue Wed Thu Fri Sat
+1
+8
+15
+22
+29
+2
+9
+16
+23
+30
+Clear
+3
+10
+17
+24
+31
+4
+11
+18
+25
+1
+5
+12
+19
+26
+2
+6
+13
+20
+27
+3
+Today
+7
+14
+21
+28
+4
+June 2025 July 2025
+Sun Mon Tue Wed Thu Fri Sat Sun Mon Tue Wed Thu Fri Sat
+1
+8
+15
+22
+29
+2
+9
+16
+23
+30
+3
+10
+17
+24
+31
+4
+11
+18
+25
+1
+Clear
+5
+12
+19
+26
+2
+6
+13
+20
+27
+3
+7
+14
+21
+28
+4
+1
+8
+15
+22
+29
+2
+9
+16
+23
+30
+3
+10
+17
+24
+31
+4 5
+11 12
+18 19
+25 26
+1 2
+Today
+6
+13
+20
+27
+3
+7
+14
+21
+28
+4
+2015-2026
+2015 2016 2017
+2018 2019 2020
+2021 2022 2023
+2024 2025 2026
+Clear
+2015-2026
+January February March
+April May June
+July August September
+October November December
+Clear
+Date of birth
+2015 March 15
+2016 April 16
+2017 May 17
+Clear
+
+--- PAGE 5 ---
+Da t e o f bir th *
+|
+June 202 5
+Sun Mon T ue W ed Thu F ri Sat
+1
+8
+1 5
+2 2
+29
+2
+9
+16
+2 3
+30
+C le ar
+3
+10
+1 7
+2 4
+3 1
+4
+1 1
+1 8
+2 5
+1
+5
+12
+19
+26
+2
+6
+13
+20
+2 7
+3
+T oda y
+7
+14
+2 1
+28
+4
+F r om *
+|
+T o *
+12 Jan 202 5
+June 202 5 July 202 5
+Sun Mon T ue W ed Thu F ri Sat Sun Mon T ue W ed Thu F ri Sat
+1
+8
+1 5
+2 2
+29
+2
+9
+16
+2 3
+30
+3
+10
+1 7
+2 4
+3 1
+4
+1 1
+1 8
+2 5
+1
+C le ar
+5
+12
+19
+26
+2
+6
+13
+20
+2 7
+3
+7
+14
+2 1
+28
+4
+1
+8
+1 5
+2 2
+29
+2
+9
+16
+2 3
+30
+3
+10
+1 7
+2 4
+3 1
+4 5
+1 1 12
+1 8 19
+2 5 26
+1 2
+T oda y
+6
+13
+20
+2 7
+3
+7
+14
+2 1
+28
+4

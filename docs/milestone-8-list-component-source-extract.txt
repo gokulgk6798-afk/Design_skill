@@ -1,0 +1,143 @@
+Source: assets/source-materials/list-component.pdf
+Pages: 3
+
+--- PAGE 1 ---
+Lists component example
+This example shows how you can use the component as a variant. Simply click on the component, and you'll see 
+all the available options in the right sidebar.
+Coded version docs
+2 team members
+20GB Cloud storage
+Integration help
+Sketch Files
+API Access
+Complete documentation
+24×7 phone & email support
+
+--- PAGE 2 ---
+List item 1
+List item 1
+List item 1
+List item 1
+List item 1
+List item 1
+List item 1
+$599
+$599
+$599
+$599
+List item 1
+List item 1
+List item 1
+List item 1
+List item 1
+List item 1
+List item 1
+List item 1
+List item 1
+List item 1
+1
+1
+1
+1
+List item 1
+Helper text here
+List item 1
+Helper text here
+List item 1
+Helper text here
+$599
+$599
+$599
+List item 1
+Helper text here
+List item 1
+Helper text here
+List item 1
+Helper text here
+List item 1
+Helper text here
+List item 1
+Helper text here
+List item 1
+Helper text here
+Follow
+Follow
+Follow
+List item 1
+Helper text here
+List item 1
+Helper text here
+List item 1
+Helper text here
+List item 1
+Helper text here
+List item 1
+Helper text here
+List item 1
+Helper text here
++5.01885337 EGLD
+Completed
++5.01885337 EGLD
+Completed
++5.01885337 EGLD
+Completed
+List item 1
+Helper text here
+List item 1
+Helper text here
+List item 1
+Helper text here
+120 tickets answered 4,9/5
+120 tickets answered 4,9/5
+120 tickets answered 4,9/5
+
+--- PAGE 3 ---
+2 team members
+2 0G B Cloud storage
+I ntegration help
+S ketch Files
+A PI  Access
+Complete documentation
+2 4×7  phone & email support
+Electronics
+Fashion
+Home Furnishings
+Auto
+Food and Beverage
+Toys
+Books & Music
+Office Equipment
+Audio & Video Equipment
+Other Categories
+$5B
+$2.78B
+$1.8B
+$1.1B
+$987M
+$705M
+$688M
+$534M
+$502M
+$95M
+Latest customers View all
+Boonie Green
+Helper text here $599
+Jese Leos
+Helper text here $325
+Roberta Casas
+name@example.com $127
+Thomas Lean
+Helper text here $1,264
+Lana Byrd
+Helper text here $688
+Karen Nelson
+Helper text here $89
+Flowbite UI
+Take your website or app to the next level.
+Figma App
+Get started with our  Figma Design System
+Tailwind CSS
+The most popular utility-first framework
+React JS
+The library for web and native user interfaces.

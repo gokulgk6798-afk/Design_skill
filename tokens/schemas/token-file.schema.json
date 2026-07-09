@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "token-file.schema.json",
+  "title": "Design Token File Schema Architecture",
+  "description": "Architecture schema for future design token source files. This schema defines structure only and does not validate organization-specific values yet.",
+  "type": "object",
+  "required": ["metadata", "tokens"],
+  "properties": {
+    "metadata": {
+      "$ref": "token-metadata.schema.json"
+    },
+    "tokens": {
+      "type": "object",
+      "description": "Future token groups keyed by token category, layer, role, or alias."
+    }
+  },
+  "additionalProperties": false
+}

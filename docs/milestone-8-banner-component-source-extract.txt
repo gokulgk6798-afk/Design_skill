@@ -1,0 +1,38 @@
+Source: assets/source-materials/banner-component.pdf
+Pages: 2
+
+--- PAGE 1 ---
+Banner component example
+This example shows how you can use the component as a variant. Simply click on the component, and you'll see 
+all the available options in the right sidebar.
+Coded version docs
+Humance Build websites even faster with components on top of Tailwind CSS. Sing up now
+
+--- PAGE 2 ---
+New brand identity has been launched for the Flowbite Library
+Humance Build websites even faster with components on top of Tailwind CSS. Sing up now
+First name * Enter your email Subscribe
+Get 2% pricing commission. Become a partner
+Integration is the key
+Y ou can integrate Flowbite with many tools to make your work even more efficient.
+Learn more Get started
+New brand identity has been launched for the Flowbite Library
+B uil d  websites even f aster with components on top o f  T ailwin d  CSS . Sing up now
+First name * Enter your email Subscribe
+Integration is the key
+Y ou can integrate Flowbite with many tools to make your work even more efficient.
+Learn more Get started
+New brand identity has been launched for 
+the Flowbite Library
+B uil d  websites even f aster with components on 
+top o f  T ailwin d  CSS .
+Cl oseSing up now
+Sign up to our news l etter
+Enter your email
+Subscribe
+Get 2% pricing commission.
+Become a partner
+Integration is the key
+Y ou can integrate Flowbite with many tools to 
+make your work even more efficient.
+Learn more Get started

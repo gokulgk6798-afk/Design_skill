@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "category": "motion",
+    "status": "draft",
+    "owner": "Design System Owner",
+    "version": "0.0.0",
+    "description": "Architecture placeholder for future motion tokens. No organization-specific values are defined.",
+    "dependencies": []
+  },
+  "tokens": {}
+}

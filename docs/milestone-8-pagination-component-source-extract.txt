@@ -1,0 +1,15 @@
+Source: assets/source-materials/pagination-component.pdf
+Pages: 2
+
+--- PAGE 1 ---
+Pagination component example
+This example shows how you can use the component as a variant. Simply click on the component, and you'll see 
+all the available options in the right sidebar.
+Coded version docs
+1 2 3 4 5 6 7 8 9 10
+
+--- PAGE 2 ---
+1 2 3 4 5 6 7 8 9 10 Previous 1 2 3 4 5 6 7 8 99 Next Previous Next
+Showing 1 to 10 of 100 Entries
+Prev Next
+Previous 1 2 3 4 5 6 7 8 99 Next 10 per page Previous 1 2 3 4 5 6 7 8 99 Next Go to 199 Page Go to page 20 Go 1 of 99 03 of 99 pages

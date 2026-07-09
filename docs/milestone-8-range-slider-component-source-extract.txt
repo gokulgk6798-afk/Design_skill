@@ -1,0 +1,35 @@
+Source: assets/source-materials/range-slider-component.pdf
+Pages: 5
+
+--- PAGE 1 ---
+Range Slider component example
+This example shows how you can use the component as a variant. Simply click on the component, and you'll see 
+all the available options in the right sidebar.
+Coded version docs
+40%
+100%
+0% 100%
+100%100% 100% 100%
+
+--- PAGE 2 ---
+[No extractable text]
+
+--- PAGE 3 ---
+[No extractable text]
+
+--- PAGE 4 ---
+100%
+0%
+0%
+100%
+$300
+40%
+100%
+$2500
+100%
+100%
+100%
+100%
+
+--- PAGE 5 ---
+100% 100% 100% 100% 100%

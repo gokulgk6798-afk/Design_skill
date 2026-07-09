@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "category": "opacity",
+    "status": "in-review",
+    "owner": "Design System Owner",
+    "version": "0.0.0",
+    "description": "Source-derived text opacity tokens from approved Milestone 8 typography and spacing input.",
+    "dependencies": [
+      "docs/milestone-8-typography-spacing-source.md",
+      "knowledge/design/typography.md"
+    ]
+  },
+  "tokens": {
+    "opacity": {
+      "text": {
+        "primary-heading": { "$value": 1, "$type": "opacity" },
+        "body": { "$value": 0.85, "$type": "opacity" },
+        "supporting": { "$value": 0.65, "$type": "opacity" },
+        "caption": { "$value": 0.5, "$type": "opacity" }
+      }
+    }
+  }
+}

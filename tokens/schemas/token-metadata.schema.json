@@ -1,0 +1,34 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "token-metadata.schema.json",
+  "title": "Design Token Metadata Schema Architecture",
+  "description": "Architecture schema for future token metadata.",
+  "type": "object",
+  "required": ["category", "status", "owner", "version", "description"],
+  "properties": {
+    "category": {
+      "type": "string",
+      "description": "Token category such as colors, typography, spacing, radius, motion, icons, or breakpoints."
+    },
+    "status": {
+      "type": "string",
+      "enum": ["draft", "in-review", "approved", "deprecated", "archived"]
+    },
+    "owner": {
+      "type": "string"
+    },
+    "version": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "dependencies": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "additionalProperties": true
+}

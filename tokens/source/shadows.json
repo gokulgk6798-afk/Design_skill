@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "category": "shadows",
+    "status": "approved-source",
+    "owner": "Design System Owner",
+    "version": "0.0.0",
+    "description": "Source-derived shadow tokens from approved Milestone 8 elevation and shadow input.",
+    "dependencies": [
+      "docs/milestone-8-elevation-shadow-source.md",
+      "knowledge/design/elevation.md"
+    ]
+  },
+  "tokens": {
+    "shadow": {
+      "elevation-0": {
+        "$value": "none",
+        "$type": "shadow",
+        "$description": "Flat surfaces. Offset Y 0px, blur 0px, opacity 0%."
+      },
+      "elevation-1": {
+        "$value": "0 1px 4px 0 #00000008",
+        "$type": "shadow",
+        "$description": "Controls and small elements. Offset Y 1px, blur 4px, opacity 3%."
+      },
+      "elevation-2": {
+        "$value": "0 2px 8px 0 #0000000A",
+        "$type": "shadow",
+        "$description": "Cards and floating panels. Offset Y 2px, blur 8px, opacity 4%."
+      },
+      "elevation-3": {
+        "$value": "0 4px 16px -2px #0000000D",
+        "$type": "shadow",
+        "$description": "Dialogs and overlays. Offset Y 4px, blur 16px, opacity 5%."
+      },
+      "elevation-4": {
+        "$value": "0 8px 24px -4px #00000012",
+        "$type": "shadow",
+        "$description": "Modals and high-priority surfaces. Offset Y 8px, blur 24px, opacity 7%."
+      }
+    }
+  }
+}
