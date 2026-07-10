@@ -15,6 +15,7 @@ audience:
 last_updated: 2026-07-08
 update_frequency: On presentation standard change
 dependencies:
+  - docs/presentation-design-system-enforcement.md
   - assets/source-materials/finstein-presentation.pdf
   - assets/logos/logo-assets.json
   - knowledge/visual-identity/logos.md
@@ -91,6 +92,9 @@ Current approved proof points from the source include:
 
 AI assistants must:
 
+- load `docs/presentation-design-system-enforcement.md` before generating or finalizing presentation output
+- lock typography, brand colors, spacing, grid, radius, shadows, components, accessibility, and UX writing to approved Design Kit sources
+- run the pre-output validation checklist before final output
 - preserve the source-derived narrative unless instructed otherwise
 - ask for missing audience, objective, and source material
 - include an approved Finstein logo in generated presentation files

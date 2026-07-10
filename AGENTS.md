@@ -29,15 +29,24 @@ AI assistants must use this file before generating or reviewing any design-relat
 
 For presentations, load:
 
+- `docs/presentation-design-system-enforcement.md`
 - `knowledge/presentation-standards/`
 - `knowledge/design/`
 - `knowledge/visual-identity/`
 - `assets/logos/logo-assets.json`
 - `integrations/_shared/asset-discovery.md`
+- `knowledge/ux/accessibility.md`
+- `knowledge/ux/accessibility-color-combinations.md`
+- `knowledge/ux/content-guidelines.md`
+- `knowledge/ux/ux-writing.md`
+- `tokens/source/`
+- relevant files from `knowledge/components/`
 - `templates/presentations/`
 - `knowledge/checklists/presentation-checklist.md`
 
 Presentation outputs must include an approved Finstein logo unless the user explicitly asks for an internal text-only outline. Use `assets/logos/finstein-logo-dark.pdf` on light backgrounds and `assets/logos/finstein-logo-white.pdf` on dark or deep-blue backgrounds. If the target format cannot embed PDF logo assets, stop and report that a PNG or SVG export is required; do not silently omit the logo.
+
+Presentation outputs must pass `docs/presentation-design-system-enforcement.md` before final output. Typography, brand colors, spacing, grid, radius, shadows, components, accessibility, and UX writing are locked to approved Design Kit sources.
 
 For documents and proposals, load:
 

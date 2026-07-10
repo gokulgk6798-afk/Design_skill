@@ -20,15 +20,43 @@ Do not produce final organization-compliant artifacts from the skill package alo
 
 Load:
 
+- `docs/presentation-design-system-enforcement.md`
 - `knowledge/brand/`
 - `knowledge/visual-identity/`
 - `assets/logos/logo-assets.json`
 - `integrations/_shared/asset-discovery.md`
-- `knowledge/design/`
+- `knowledge/design/colors.md`
+- `knowledge/design/typography.md`
+- `knowledge/design/spacing.md`
+- `knowledge/design/grid.md`
+- `knowledge/design/radius.md`
+- `knowledge/design/elevation.md`
+- `knowledge/ux/accessibility.md`
+- `knowledge/ux/accessibility-color-combinations.md`
+- `knowledge/ux/content-guidelines.md`
+- `knowledge/ux/ux-writing.md`
+- `tokens/source/colors.json`
+- `tokens/source/typography.json`
+- `tokens/source/font-sizes.json`
+- `tokens/source/font-weights.json`
+- `tokens/source/line-heights.json`
+- `tokens/source/spacing.json`
+- `tokens/source/radius.json`
+- `tokens/source/shadows.json`
+- `tokens/source/elevation.json`
+- `tokens/source/opacity.json`
+- relevant component standards from `knowledge/components/`
 - `knowledge/presentation-standards/`
 - `templates/presentations/`
 - `examples/presentation/`
 - `knowledge/checklists/presentation-checklist.md`
+
+Enforcement:
+
+- Load the design system before generating slide content.
+- Lock typography, brand colors, spacing, grid, radius, shadows, components, accessibility, and UX writing to approved source files.
+- Run the pre-output checklist in `docs/presentation-design-system-enforcement.md` before final output.
+- State the repository sources used.
 
 Logo requirement:
 
@@ -36,6 +64,13 @@ Logo requirement:
 - Use `assets/logos/finstein-logo-white.pdf` for dark or deep-blue slide backgrounds.
 - Do not finalize generated presentation files without a logo unless the user requested a text-only outline.
 - If the target file format cannot embed PDF logos, request an approved PNG or SVG export instead of silently omitting the logo.
+
+Never do:
+
+- Do not use unapproved fonts, colors, gradients, spacing, radius, shadows, or components.
+- Do not invent metrics, certifications, claims, or visual styles.
+- Do not ignore accessibility or UX writing rules.
+- Do not finalize if mandatory assets or standards cannot be loaded.
 
 ## Proposal Workflow
 

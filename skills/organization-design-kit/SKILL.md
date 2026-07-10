@@ -31,3 +31,5 @@ Use this skill to apply the Organization Design Kit as the authoritative source 
 ## Validation
 
 Always use the relevant checklist from `knowledge/checklists/` before finalizing an output.
+
+For presentations, also load and enforce `docs/presentation-design-system-enforcement.md` before output. Presentation generation must validate typography, brand colors, spacing, grid, radius, shadows, components, accessibility, UX writing, and logo usage against approved Design Kit sources.
