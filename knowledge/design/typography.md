@@ -3,7 +3,7 @@
 ```yaml
 title: Typography
 category: design
-status: in-review
+status: approved-source
 version: 0.0.0
 owner: Design System Owner
 audience:

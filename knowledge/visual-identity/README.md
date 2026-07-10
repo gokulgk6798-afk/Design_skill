@@ -1,8 +1,8 @@
-# Visual Identity Knowledge Architecture
+# Visual Identity Knowledge
 
 ## Purpose
 
-Define the structure for future AI-readable visual identity knowledge.
+Define the AI-readable visual identity knowledge used by humans and assistants.
 
 ## Audience
 
@@ -14,9 +14,9 @@ Define the structure for future AI-readable visual identity knowledge.
 
 ## Scope
 
-This architecture covers future modules for logos, logo usage, and brand assets. It does not include actual logos, assets, or usage rules.
+This directory contains approved source-backed guidance for logos and logo usage. Future brand asset categories may be added without changing the current logo rules.
 
-## Future Modules
+## Modules
 
 - `logos.md`
 - `logo-usage.md`
@@ -35,6 +35,7 @@ This architecture covers future modules for logos, logo usage, and brand assets.
 ## Dependencies
 
 - `assets/`
+- `assets/logos/logo-assets.json`
 - `docs/documentation/brand.md`
 - `docs/documentation/icons.md`
 - `knowledge/_meta/metadata-schema.md`

@@ -1,4 +1,4 @@
-SOURCE: C:\Users\Finstein-Emp\Downloads\Finstein_logo_guid_v.2.pdf
+﻿SOURCE: provided-source\Finstein_logo_guid_v.2.pdf
 PAGES: 15
 
 --- PAGE 1 ---
@@ -18,7 +18,7 @@ Logo Structure
 
 --- PAGE 3 ---
 Logo Identity Standards
-This inspiration for the symbol is Finance “F”. it is a double F that looks 
+This inspiration for the symbol is Finance â€œFâ€. it is a double F that looks 
 for the chart and arrow to upwords.
 SYMBOL
 Symbol
@@ -41,7 +41,7 @@ As a guide, the logo should not be used any smaller than
 on format and production but always ensure that each element 
 is readable.
 Minimum Size
-.7” / 2 cm square / 72 pixels
+.7â€ / 2 cm square / 72 pixels
 Note: For sizes below 40 pixels refer to the signature 
 version of the brandmark.
 Positioning & Clear Space
@@ -105,7 +105,7 @@ Logo Misuse
 --- PAGE 8 ---
 Georgia, Circular Std and Arial are the recommended Goldman 
 Sachs fonts. Circular Std was chosen because it is clean and 
-contemporary — setting the tone for the Finstien brand.  Georgia 
+contemporary â€” setting the tone for the Finstien brand.  Georgia 
 is a slightly more traditional typeface. Therefore, it provides a nod 
 to the tradition and history of Finstien. Arial is used by the UI 
 Toolkit for all digital apps. For PowerPoint and electronic media, 
@@ -191,9 +191,9 @@ Mathematic proporations for type are based on boady copy
 values (9pt/12pt at right). The baseline grid increment is equal 
 to the body copy leading (12 pt at right). Use the equations 
 below to calculate values.
-H1 = X x 6 (9×6= 54pt)
-H2 = Xx4 (9×4=36pt)
-H3 = Xx2 (9×2=18 pt)
+H1 = X x 6 (9Ã—6= 54pt)
+H2 = Xx4 (9Ã—4=36pt)
+H3 = Xx2 (9Ã—2=18 pt)
 Folio = 2/3 X
 Headline Leading =
 type size + (type size/X)
@@ -304,4 +304,5 @@ Visual identity guidelines
 Business Card
 
 --- PAGE 15 ---
+
 

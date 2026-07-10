@@ -1,13 +1,13 @@
-# Roboto Font Package
+﻿# Roboto Font Package
 
 This folder contains the approved Roboto font package provided for Milestone 8.
 
 ## Source
 
-Original folder:
+Original source package:
 
 ```text
-C:\Users\Finstein-Emp\Downloads\Roboto
+provided-source\Roboto
 ```
 
 ## Included Files
@@ -35,3 +35,4 @@ Recommended fallback stack:
 ```css
 font-family: "Roboto", Arial, sans-serif;
 ```
+

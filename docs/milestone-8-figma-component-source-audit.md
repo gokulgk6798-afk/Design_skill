@@ -1,4 +1,4 @@
-# Milestone 8 Figma Component Source Audit
+﻿# Milestone 8 Figma Component Source Audit
 
 This document records the inspection of the provided local Figma export for web application components.
 
@@ -7,7 +7,7 @@ This document records the inspection of the provided local Figma export for web 
 Original file:
 
 ```text
-C:\Users\Finstein-Emp\Downloads\HRMS Design System (1).fig
+provided-source\HRMS Design System (1).fig
 ```
 
 Repository copy:
@@ -89,3 +89,4 @@ The component population should be scoped to web application components only and
 - loading states
 - error states
 - hover, focus, disabled, and selected states where present
+

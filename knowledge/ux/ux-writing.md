@@ -3,7 +3,7 @@
 ```yaml
 title: UX Writing
 category: ux
-status: in-review
+status: approved-source
 version: 0.0.0
 owner: Content Owner
 audience:

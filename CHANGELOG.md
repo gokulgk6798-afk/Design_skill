@@ -106,6 +106,8 @@ This repository should follow semantic versioning after production content is in
 - Added machine-readable logo asset manifest and explicit presentation logo selection rules.
 - Updated presentation, prompt, checklist, asset discovery, and skill workflows to prevent logo omission in generated decks.
 - Added presentation design-system enforcement guidance and strengthened the presentation prompt, skill workflow, and checklist with mandatory standards loading, locked design rules, never-do checks, and pre-output validation.
+- Removed workstation-specific source paths from text references and promoted enforced presentation standards to approved-source status for organization-wide use.
+- Added organization-wide skill readiness audit covering installation, enforcement, validation, governance, and operational watch items.
 - Updated `README.md` for production adoption and skill usage.
 - Marked Milestone 10 complete in the roadmap.
 

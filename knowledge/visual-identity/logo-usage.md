@@ -3,7 +3,7 @@
 ```yaml
 title: Logo Usage
 category: visual-identity
-status: in-review
+status: approved-source
 version: 0.0.0
 owner: Brand Owner
 audience:

@@ -157,7 +157,7 @@ Design_skill/
 |-- .codex/                          # Codex-ready skill package
 |-- .github/                         # GitHub Copilot instructions
 |-- assets/                          # Approved assets, fonts, logos, source materials
-|-- components/                      # Component architecture placeholder
+|-- components/                      # Component architecture and implementation references
 |-- docs/                            # Installation, adoption, governance, milestone reviews
 |-- examples/                        # Reference example outputs
 |-- integrations/                    # Assistant loading and validation contracts

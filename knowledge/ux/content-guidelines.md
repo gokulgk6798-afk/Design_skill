@@ -3,7 +3,7 @@
 ```yaml
 title: Content Guidelines
 category: ux
-status: in-review
+status: approved-source
 version: 0.0.0
 owner: Content Owner
 audience:

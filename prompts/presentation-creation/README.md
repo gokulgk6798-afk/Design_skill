@@ -3,7 +3,7 @@
 ```yaml
 title: Presentation Creation Prompt
 version: 0.0.0
-status: draft
+status: approved-source
 owner: Content Owner
 prompt_type: presentation-creation
 dependencies:

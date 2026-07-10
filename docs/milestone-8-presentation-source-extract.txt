@@ -1,4 +1,4 @@
-SOURCE: C:\Users\Finstein-Emp\Downloads\Finstein presentation.pdf
+﻿SOURCE: provided-source\Finstein presentation.pdf
 PAGES: 21
 
 --- PAGE 1 ---
@@ -7,18 +7,18 @@ Finstein - Firm Profile
 --- PAGE 2 ---
 02
 400+employees
-6 Practice Leaders ​
+6 Practice Leaders â€‹
 An experienced Leadership team having 
 expertise in Technology , Operations, 
-Finance and Security​
+Finance and Securityâ€‹
 About Us
-“Innovation at the Heart 
-of our Delivery”
+â€œInnovation at the Heart 
+of our Deliveryâ€
 Transforming Challenges into Opportunities.
 At the heart of everything we do is a passion for creating solutions that not only solve real business challenges but redefine 
 how our clients operate, grow, and lead in their industries.
 Backed by decades of collective experience, we bring unmatched insight, innovation, and precision to every project.
-Our mission to serve the Greater Good is more than a statement—it’s a commitment woven into every client relationship, every 
+Our mission to serve the Greater Good is more than a statementâ€”itâ€™s a commitment woven into every client relationship, every 
 strategy, and every outcome we deliver.
 Your Data is safe with us !
 Multi-Disciplinary
@@ -32,7 +32,7 @@ ISO 9 00 1: 20 15  Certi fi e d .
 --- PAGE 3 ---
 03
 Our MissionOur MissionTo help our clients make distinctive, lasting, and substantial improvements to their processes and performance 
-leveraging on Technology, Risk, Cyber Security and Financial process expertise​ .
+leveraging on Technology, Risk, Cyber Security and Financial process expertiseâ€‹ .
 
 --- PAGE 4 ---
 04
@@ -189,7 +189,7 @@ AI as an Extractor
 Why Us
 D omain &  
 Process
-Security & 
+Security &â€¨
 PrivacyTechnology
 We are a firm with good understanding of :
 Next Generation Technology
@@ -216,36 +216,36 @@ will meet C lient Expectations
 1919
 Finstein Creative intelligence unit
 The CIU is Finstein's state-of-the-art design lab, where artistry meets function. Here, design is felt before it's seen. Led by artists-turned-
-designers, the CIU brings a unique blend of aesthetic intuition, technical design sensibility, and philosophical clarity—the "third eye of design​
+designers, the CIU brings a unique blend of aesthetic intuition, technical design sensibility, and philosophical clarityâ€”the "third eye of designâ€‹
 Web Design & Digital Experience
 UI/UX Design (Web, Mobile, SaaS), Website Redesigns 
 & Re-platforming, Micro-interaction & Motion UI, 
 Responsive Systems & Layout Design, CMS-Ready Web 
-Assets, Design for Accessibility (WCAG-compliant)​
+Assets, Design for Accessibility (WCAG-compliant)â€‹
 Brand Systems & Design Language
 Visual Identity Expansion & Refresh, Brand Style Guides, 
 Design Tokens & Component Libraries, Typography & 
-Iconography Systems, Product-Led Brand Integration​
+Iconography Systems, Product-Led Brand Integrationâ€‹
 Experience Strategy & Content Architecture
 Sitemap Planning & Navigation Logic, Wireframes & 
 Information Hierarchy , Content Placement Strategy , 
 User Journey Mapping & UX Flow Diagrams, Content-
-Aesthetic Alignment​
+Aesthetic Alignmentâ€‹
 Visual Storytelling & Creative Direction
 Mood boarding & Concept Styling, Creative 
 Copywriting (Headline-led Design), Art Direction for 
 Photography & Video, Illustration & Abstract Visual 
 Systems, Custom UI Art (e . g . , hand-drawn or textured 
-interface)​
+interface)â€‹
 Experimental Design & I nnovation Lab
 AR-Ready Web Layout Concepts, Story telling 
 Prototypes, Motion-First Landing Pages, Voice/Chat UI 
 Skinning, Visual Design for New Interfaces ( K iosks, 
-Wearables)​
+Wearables)â€‹
 Brand P resentation & Sho w  space
 Portfolio Microsite Design, Case Study Pages & Product 
-Explainers, Investor/Founders ’  Decks (Narrative +  
-Visual), Brand Documentation​
+Explainers, Investor/Founders â€™  Decks (Narrative +  
+Visual), Brand Documentationâ€‹
 
 --- PAGE 20 ---
 20
@@ -257,3 +257,4 @@ product managers
 --- PAGE 21 ---
 19
 Thank Y ou
+

@@ -1,9 +1,9 @@
-# Logos
+﻿# Logos
 
 ```yaml
 title: Logos
 category: visual-identity
-status: in-review
+status: approved-source
 version: 0.0.0
 owner: Brand Owner
 audience:
@@ -37,8 +37,8 @@ Document the approved Finstein logo source assets currently available in the Des
 
 | Asset | File | Source |
 | --- | --- | --- |
-| White logo version | `assets/logos/finstein-logo-white.pdf` | `C:\Users\Finstein-Emp\Downloads\Finstein logo _White.pdf` |
-| Dark logo version | `assets/logos/finstein-logo-dark.pdf` | `C:\Users\Finstein-Emp\Downloads\Finstein logo _Dark.pdf` |
+| White logo version | `assets/logos/finstein-logo-white.pdf` | Provided white logo source PDF |
+| Dark logo version | `assets/logos/finstein-logo-dark.pdf` | Provided dark logo source PDF |
 
 Machine-readable asset manifest: `assets/logos/logo-assets.json`
 
@@ -109,3 +109,4 @@ AI assistants must:
 ## Governance Status
 
 Logo asset governance is complete for Milestone 8 based on the approved PDF assets and the provided logo guide.
+
